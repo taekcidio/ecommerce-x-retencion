@@ -1,0 +1,1021 @@
+cancelacion_id,pedido_id,cliente_id,fecha_cancelacion,etapa,motivo,reembolsado
+X0000001,P0000045,C00012,2025-03-23,Antes del envío,Problema con el pago,No aplica
+X0000002,P0000049,C00012,2026-06-01,En tránsito,Error en el pedido,Sí
+X0000003,P0000092,C00017,2025-01-12,En tránsito,Error en el pedido,Sí
+X0000004,P0000145,C00028,2025-11-29,Antes del envío,Encontró mejor precio,No aplica
+X0000005,P0000209,C00047,2025-10-05,Antes del envío,Encontró mejor precio,Sí
+X0000006,P0000217,C00047,2026-09-18,En tránsito,Error en el pedido,Sí
+X0000007,P0000248,C00054,2025-10-31,Antes del envío,Encontró mejor precio,Sí
+X0000008,P0000251,C00054,2026-01-10,Antes del envío,Cambio de opinión,Sí
+X0000009,P0000302,C00060,2026-05-02,En tránsito,Demora en el envío,No aplica
+X0000010,P0000312,C00062,2026-02-05,Antes del envío,Encontró mejor precio,Sí
+X0000011,P0000338,C00068,2025-01-27,Antes del envío,Encontró mejor precio,No aplica
+X0000012,P0000370,C00076,2026-05-14,En tránsito,Demora en el envío,Sí
+X0000013,P0000373,C00076,2026-07-29,En tránsito,Cambio de opinión,Sí
+X0000014,P0000417,C00088,2025-08-02,En tránsito,Demora en el envío,Sí
+X0000015,P0000435,C00092,2025-03-12,Antes del envío,Error en el pedido,Sí
+X0000016,P0000439,C00093,2025-02-16,Antes del envío,Cambio de opinión,No aplica
+X0000017,P0000442,C00093,2025-08-19,Antes del envío,Cambio de opinión,No aplica
+X0000018,P0000468,C00099,2025-01-21,Antes del envío,Encontró mejor precio,No aplica
+X0000019,P0000477,C00101,2025-05-01,Antes del envío,Cambio de opinión,Sí
+X0000020,P0000482,C00102,2025-12-14,Antes del envío,Problema con el pago,Sí
+X0000021,P0000493,C00103,2026-02-19,Antes del envío,Encontró mejor precio,Sí
+X0000022,P0000534,C00113,2025-09-14,Antes del envío,Cambio de opinión,Sí
+X0000023,P0000552,C00116,2025-10-26,Antes del envío,Cambio de opinión,Sí
+X0000024,P0000599,C00129,2025-02-06,Antes del envío,Encontró mejor precio,No aplica
+X0000025,P0000670,C00150,2025-07-04,En tránsito,Demora en el envío,No aplica
+X0000026,P0000671,C00150,2025-07-07,Antes del envío,Error en el pedido,Sí
+X0000027,P0000682,C00154,2026-01-19,Antes del envío,Cambio de opinión,Sí
+X0000028,P0000695,C00157,2025-11-11,Antes del envío,Encontró mejor precio,Sí
+X0000029,P0000776,C00176,2026-08-31,Antes del envío,Problema con el pago,Sí
+X0000030,P0000792,C00179,2026-01-05,Antes del envío,Encontró mejor precio,No aplica
+X0000031,P0000809,C00181,2026-05-08,Antes del envío,Error en el pedido,Sí
+X0000032,P0000820,C00183,2026-03-18,En tránsito,Demora en el envío,No aplica
+X0000033,P0000874,C00192,2025-04-27,Antes del envío,Problema con el pago,Sí
+X0000034,P0000878,C00193,2026-04-13,Antes del envío,Error en el pedido,Sí
+X0000035,P0000900,C00198,2026-06-15,Antes del envío,Problema con el pago,Sí
+X0000036,P0000918,C00200,2026-06-24,En tránsito,Demora en el envío,Sí
+X0000037,P0000921,C00202,2025-04-13,Antes del envío,Encontró mejor precio,No aplica
+X0000038,P0000937,C00206,2025-10-11,En tránsito,Error en el pedido,Sí
+X0000039,P0000954,C00210,2026-04-02,En tránsito,Encontró mejor precio,Sí
+X0000040,P0000982,C00216,2025-08-19,Antes del envío,Problema con el pago,No aplica
+X0000041,P0001014,C00221,2025-11-12,Antes del envío,Cambio de opinión,Sí
+X0000042,P0001020,C00222,2026-01-02,Antes del envío,Error en el pedido,Sí
+X0000043,P0001057,C00234,2025-01-07,Antes del envío,Cambio de opinión,Sí
+X0000044,P0001064,C00236,2025-05-07,En tránsito,Demora en el envío,Sí
+X0000045,P0001076,C00238,2026-01-08,En tránsito,Demora en el envío,Sí
+X0000046,P0001080,C00239,2025-03-10,Antes del envío,Problema con el pago,No aplica
+X0000047,P0001082,C00239,2026-07-15,En tránsito,Demora en el envío,Sí
+X0000048,P0001115,C00247,2025-04-03,Antes del envío,Error en el pedido,Sí
+X0000049,P0001129,C00254,2025-03-07,Antes del envío,Error en el pedido,Sí
+X0000050,P0001133,C00255,2025-11-22,Antes del envío,Cambio de opinión,Sí
+X0000051,P0001144,C00259,2025-08-27,Antes del envío,Encontró mejor precio,Sí
+X0000052,P0001159,C00263,2025-08-24,Antes del envío,Encontró mejor precio,Sí
+X0000053,P0001169,C00265,2025-12-20,Antes del envío,Encontró mejor precio,Sí
+X0000054,P0001190,C00273,2025-03-07,Antes del envío,Cambio de opinión,Sí
+X0000055,P0001230,C00283,2025-04-17,Antes del envío,Error en el pedido,Sí
+X0000056,P0001232,C00283,2025-08-20,Antes del envío,Encontró mejor precio,No aplica
+X0000057,P0001246,C00286,2025-06-19,Antes del envío,Encontró mejor precio,Sí
+X0000058,P0001265,C00290,2026-04-22,En tránsito,Demora en el envío,Sí
+X0000059,P0001278,C00292,2025-10-29,Antes del envío,Error en el pedido,No aplica
+X0000060,P0001308,C00299,2025-04-12,Antes del envío,Problema con el pago,Sí
+X0000061,P0001336,C00306,2025-01-15,Antes del envío,Encontró mejor precio,No aplica
+X0000062,P0001365,C00313,2025-02-20,Antes del envío,Problema con el pago,No aplica
+X0000063,P0001375,C00314,2026-08-10,Antes del envío,Cambio de opinión,No aplica
+X0000064,P0001378,C00316,2026-01-14,Antes del envío,Encontró mejor precio,No aplica
+X0000065,P0001391,C00318,2025-04-25,Antes del envío,Encontró mejor precio,No aplica
+X0000066,P0001432,C00326,2025-07-17,Antes del envío,Cambio de opinión,No aplica
+X0000067,P0001457,C00332,2026-01-21,Antes del envío,Cambio de opinión,Sí
+X0000068,P0001496,C00338,2025-08-28,Antes del envío,Problema con el pago,Sí
+X0000069,P0001530,C00343,2025-05-24,Antes del envío,Encontró mejor precio,No aplica
+X0000070,P0001544,C00344,2025-07-25,Antes del envío,Cambio de opinión,Sí
+X0000071,P0001563,C00350,2025-07-10,En tránsito,Demora en el envío,Sí
+X0000072,P0001577,C00351,2026-08-12,En tránsito,Error en el pedido,Sí
+X0000073,P0001637,C00365,2025-09-30,Antes del envío,Error en el pedido,Sí
+X0000074,P0001660,C00369,2025-03-12,Antes del envío,Cambio de opinión,No aplica
+X0000075,P0001661,C00369,2025-04-16,Antes del envío,Encontró mejor precio,Sí
+X0000076,P0001671,C00370,2025-05-14,Antes del envío,Problema con el pago,Sí
+X0000077,P0001672,C00370,2025-08-09,En tránsito,Demora en el envío,Sí
+X0000078,P0001700,C00374,2025-01-18,Antes del envío,Error en el pedido,No aplica
+X0000079,P0001723,C00377,2026-07-22,Antes del envío,Cambio de opinión,No aplica
+X0000080,P0001736,C00381,2025-02-11,Antes del envío,Error en el pedido,Sí
+X0000081,P0001810,C00397,2026-07-26,Antes del envío,Cambio de opinión,Sí
+X0000082,P0001831,C00402,2025-05-17,Antes del envío,Problema con el pago,No aplica
+X0000083,P0001846,C00404,2025-09-19,Antes del envío,Encontró mejor precio,No aplica
+X0000084,P0001848,C00404,2025-11-25,Antes del envío,Error en el pedido,Sí
+X0000085,P0001880,C00411,2026-07-02,En tránsito,Demora en el envío,Sí
+X0000086,P0001895,C00415,2025-03-02,Antes del envío,Cambio de opinión,Sí
+X0000087,P0001973,C00432,2025-07-02,Antes del envío,Problema con el pago,No aplica
+X0000088,P0001976,C00432,2026-02-10,Antes del envío,Cambio de opinión,Sí
+X0000089,P0002037,C00445,2026-09-30,En tránsito,Error en el pedido,No aplica
+X0000090,P0002060,C00449,2026-03-06,Antes del envío,Encontró mejor precio,No aplica
+X0000091,P0002069,C00452,2025-06-20,Antes del envío,Encontró mejor precio,Sí
+X0000092,P0002183,C00478,2025-12-28,Antes del envío,Cambio de opinión,Sí
+X0000093,P0002184,C00478,2026-03-18,Antes del envío,Encontró mejor precio,Sí
+X0000094,P0002200,C00480,2026-05-31,En tránsito,Demora en el envío,Sí
+X0000095,P0002212,C00485,2026-05-27,En tránsito,Problema con el pago,No aplica
+X0000096,P0002272,C00504,2025-08-31,Antes del envío,Encontró mejor precio,No aplica
+X0000097,P0002295,C00511,2026-05-05,En tránsito,Demora en el envío,Sí
+X0000098,P0002330,C00519,2025-09-05,Antes del envío,Error en el pedido,Sí
+X0000099,P0002382,C00527,2026-09-23,En tránsito,Cambio de opinión,No aplica
+X0000100,P0002383,C00528,2025-01-09,En tránsito,Demora en el envío,Sí
+X0000101,P0002394,C00529,2025-12-14,Antes del envío,Encontró mejor precio,Sí
+X0000102,P0002493,C00550,2026-07-20,En tránsito,Demora en el envío,Sí
+X0000103,P0002518,C00555,2025-09-03,En tránsito,Cambio de opinión,No aplica
+X0000104,P0002544,C00560,2025-08-27,Antes del envío,Error en el pedido,Sí
+X0000105,P0002547,C00560,2026-03-08,Antes del envío,Error en el pedido,Sí
+X0000106,P0002573,C00564,2025-07-18,En tránsito,Demora en el envío,Sí
+X0000107,P0002575,C00564,2026-06-15,En tránsito,Demora en el envío,Sí
+X0000108,P0002621,C00572,2025-11-14,Antes del envío,Cambio de opinión,No aplica
+X0000109,P0002638,C00575,2025-05-10,Antes del envío,Cambio de opinión,No aplica
+X0000110,P0002652,C00579,2025-08-24,Antes del envío,Error en el pedido,Sí
+X0000111,P0002653,C00579,2025-09-16,Antes del envío,Cambio de opinión,Sí
+X0000112,P0002730,C00590,2025-12-08,Antes del envío,Problema con el pago,No aplica
+X0000113,P0002735,C00592,2025-04-15,Antes del envío,Cambio de opinión,No aplica
+X0000114,P0002748,C00593,2026-06-26,En tránsito,Cambio de opinión,Sí
+X0000115,P0002780,C00603,2026-04-07,En tránsito,Error en el pedido,Sí
+X0000116,P0002812,C00612,2025-06-14,En tránsito,Demora en el envío,Sí
+X0000117,P0002819,C00615,2026-08-18,En tránsito,Demora en el envío,Sí
+X0000118,P0002856,C00626,2026-08-28,Antes del envío,Problema con el pago,Sí
+X0000119,P0002863,C00629,2025-02-24,Antes del envío,Encontró mejor precio,No aplica
+X0000120,P0002878,C00630,2026-09-30,En tránsito,Demora en el envío,Sí
+X0000121,P0002904,C00635,2026-02-08,Antes del envío,Encontró mejor precio,Sí
+X0000122,P0002922,C00639,2025-11-19,En tránsito,Cambio de opinión,Sí
+X0000123,P0002959,C00646,2026-06-09,En tránsito,Demora en el envío,No aplica
+X0000124,P0002969,C00648,2026-04-20,En tránsito,Demora en el envío,Sí
+X0000125,P0002971,C00648,2026-07-06,En tránsito,Demora en el envío,Sí
+X0000126,P0003034,C00661,2026-04-09,Antes del envío,Cambio de opinión,Sí
+X0000127,P0003058,C00668,2025-04-10,Antes del envío,Problema con el pago,Sí
+X0000128,P0003066,C00669,2026-03-24,Antes del envío,Cambio de opinión,Sí
+X0000129,P0003076,C00674,2026-01-13,Antes del envío,Encontró mejor precio,Sí
+X0000130,P0003082,C00675,2026-02-26,Antes del envío,Problema con el pago,Sí
+X0000131,P0003085,C00675,2026-06-09,En tránsito,Problema con el pago,Sí
+X0000132,P0003124,C00680,2025-11-20,Antes del envío,Encontró mejor precio,No aplica
+X0000133,P0003242,C00711,2025-01-19,En tránsito,Demora en el envío,Sí
+X0000134,P0003254,C00712,2025-02-04,Antes del envío,Cambio de opinión,No aplica
+X0000135,P0003285,C00716,2025-06-26,Antes del envío,Encontró mejor precio,Sí
+X0000136,P0003296,C00718,2025-05-28,Antes del envío,Error en el pedido,No aplica
+X0000137,P0003307,C00719,2025-12-26,En tránsito,Demora en el envío,Sí
+X0000138,P0003321,C00721,2026-06-28,En tránsito,Demora en el envío,No aplica
+X0000139,P0003339,C00727,2026-01-19,Antes del envío,Encontró mejor precio,Sí
+X0000140,P0003346,C00730,2025-02-04,Antes del envío,Error en el pedido,Sí
+X0000141,P0003357,C00730,2026-07-11,En tránsito,Demora en el envío,Sí
+X0000142,P0003362,C00731,2025-11-20,Antes del envío,Cambio de opinión,Sí
+X0000143,P0003377,C00734,2025-11-21,Antes del envío,Problema con el pago,Sí
+X0000144,P0003380,C00734,2026-04-29,En tránsito,Demora en el envío,Sí
+X0000145,P0003384,C00734,2026-08-08,En tránsito,Demora en el envío,Sí
+X0000146,P0003393,C00736,2025-03-05,Antes del envío,Encontró mejor precio,No aplica
+X0000147,P0003398,C00736,2026-08-05,En tránsito,Demora en el envío,No aplica
+X0000148,P0003417,C00740,2026-04-26,En tránsito,Demora en el envío,Sí
+X0000149,P0003421,C00741,2025-05-21,Antes del envío,Cambio de opinión,No aplica
+X0000150,P0003423,C00741,2025-09-03,En tránsito,Demora en el envío,Sí
+X0000151,P0003446,C00746,2026-07-30,En tránsito,Demora en el envío,Sí
+X0000152,P0003455,C00749,2025-05-18,Antes del envío,Problema con el pago,Sí
+X0000153,P0003516,C00762,2026-06-18,En tránsito,Demora en el envío,Sí
+X0000154,P0003533,C00767,2026-02-22,En tránsito,Demora en el envío,Sí
+X0000155,P0003540,C00768,2025-12-17,Antes del envío,Problema con el pago,No aplica
+X0000156,P0003544,C00768,2026-06-07,En tránsito,Cambio de opinión,Sí
+X0000157,P0003554,C00769,2026-04-09,Antes del envío,Error en el pedido,Sí
+X0000158,P0003584,C00774,2025-12-26,Antes del envío,Cambio de opinión,Sí
+X0000159,P0003586,C00775,2025-01-02,Antes del envío,Problema con el pago,No aplica
+X0000160,P0003622,C00782,2026-08-23,En tránsito,Demora en el envío,Sí
+X0000161,P0003635,C00785,2025-04-30,Antes del envío,Problema con el pago,Sí
+X0000162,P0003644,C00786,2025-12-25,Antes del envío,Cambio de opinión,Sí
+X0000163,P0003662,C00788,2025-08-30,Antes del envío,Encontró mejor precio,Sí
+X0000164,P0003680,C00796,2025-07-17,Antes del envío,Error en el pedido,Sí
+X0000165,P0003684,C00796,2026-02-27,Antes del envío,Problema con el pago,Sí
+X0000166,P0003728,C00805,2025-10-03,Antes del envío,Cambio de opinión,Sí
+X0000167,P0003734,C00805,2026-09-20,En tránsito,Demora en el envío,Sí
+X0000168,P0003784,C00825,2025-01-31,Antes del envío,Problema con el pago,Sí
+X0000169,P0003803,C00827,2026-09-01,En tránsito,Cambio de opinión,Sí
+X0000170,P0003804,C00827,2026-09-11,En tránsito,Demora en el envío,Sí
+X0000171,P0003838,C00837,2025-01-22,En tránsito,Problema con el pago,Sí
+X0000172,P0003847,C00842,2025-06-08,En tránsito,Encontró mejor precio,Sí
+X0000173,P0003848,C00842,2025-09-01,Antes del envío,Problema con el pago,No aplica
+X0000174,P0003869,C00848,2025-11-03,Antes del envío,Problema con el pago,Sí
+X0000175,P0003873,C00849,2025-01-09,En tránsito,Demora en el envío,Sí
+X0000176,P0003876,C00850,2026-05-25,En tránsito,Demora en el envío,Sí
+X0000177,P0003880,C00852,2025-03-04,Antes del envío,Problema con el pago,No aplica
+X0000178,P0003898,C00854,2026-04-16,Antes del envío,Error en el pedido,Sí
+X0000179,P0003950,C00867,2025-03-25,En tránsito,Cambio de opinión,Sí
+X0000180,P0003965,C00868,2026-05-25,En tránsito,Cambio de opinión,Sí
+X0000181,P0003976,C00872,2025-02-07,En tránsito,Demora en el envío,Sí
+X0000182,P0003998,C00877,2025-07-27,Antes del envío,Cambio de opinión,No aplica
+X0000183,P0004036,C00884,2025-08-14,En tránsito,Demora en el envío,No aplica
+X0000184,P0004090,C00900,2026-09-19,Antes del envío,Encontró mejor precio,No aplica
+X0000185,P0004098,C00904,2026-06-01,En tránsito,Demora en el envío,No aplica
+X0000186,P0004113,C00910,2025-01-24,En tránsito,Encontró mejor precio,Sí
+X0000187,P0004123,C00915,2025-02-03,Antes del envío,Encontró mejor precio,Sí
+X0000188,P0004150,C00920,2026-05-18,En tránsito,Cambio de opinión,Sí
+X0000189,P0004269,C00941,2026-02-08,Antes del envío,Cambio de opinión,Sí
+X0000190,P0004317,C00950,2025-12-27,Antes del envío,Error en el pedido,Sí
+X0000191,P0004319,C00950,2026-06-25,En tránsito,Error en el pedido,Sí
+X0000192,P0004348,C00954,2026-02-18,Antes del envío,Cambio de opinión,Sí
+X0000193,P0004420,C00969,2026-04-15,Antes del envío,Error en el pedido,Sí
+X0000194,P0004438,C00972,2025-11-17,Antes del envío,Problema con el pago,Sí
+X0000195,P0004456,C00974,2026-02-26,Antes del envío,Problema con el pago,Sí
+X0000196,P0004467,C00977,2025-02-03,Antes del envío,Cambio de opinión,Sí
+X0000197,P0004474,C00980,2025-02-20,Antes del envío,Encontró mejor precio,No aplica
+X0000198,P0004598,C01012,2025-07-13,En tránsito,Demora en el envío,Sí
+X0000199,P0004639,C01018,2026-04-20,En tránsito,Demora en el envío,Sí
+X0000200,P0004668,C01026,2025-05-06,Antes del envío,Error en el pedido,Sí
+X0000201,P0004678,C01029,2025-01-07,Antes del envío,Cambio de opinión,Sí
+X0000202,P0004690,C01033,2025-03-20,En tránsito,Demora en el envío,No aplica
+X0000203,P0004703,C01035,2026-08-14,En tránsito,Cambio de opinión,Sí
+X0000204,P0004726,C01040,2025-06-17,Antes del envío,Problema con el pago,No aplica
+X0000205,P0004730,C01041,2025-07-20,En tránsito,Demora en el envío,Sí
+X0000206,P0004769,C01048,2026-05-25,Antes del envío,Cambio de opinión,Sí
+X0000207,P0004778,C01053,2025-06-08,Antes del envío,Cambio de opinión,No aplica
+X0000208,P0004782,C01053,2026-04-26,En tránsito,Demora en el envío,Sí
+X0000209,P0004788,C01054,2026-04-24,En tránsito,Demora en el envío,Sí
+X0000210,P0004835,C01065,2026-09-11,En tránsito,Encontró mejor precio,No aplica
+X0000211,P0004839,C01066,2025-06-29,Antes del envío,Cambio de opinión,Sí
+X0000212,P0004869,C01070,2025-10-24,Antes del envío,Error en el pedido,Sí
+X0000213,P0004871,C01070,2026-03-21,Antes del envío,Problema con el pago,Sí
+X0000214,P0004931,C01084,2025-04-26,En tránsito,Demora en el envío,No aplica
+X0000215,P0004962,C01091,2025-04-15,Antes del envío,Cambio de opinión,Sí
+X0000216,P0004977,C01095,2025-04-28,En tránsito,Demora en el envío,Sí
+X0000217,P0005034,C01106,2025-07-18,Antes del envío,Encontró mejor precio,Sí
+X0000218,P0005045,C01107,2025-06-06,Antes del envío,Cambio de opinión,No aplica
+X0000219,P0005046,C01107,2025-09-17,Antes del envío,Problema con el pago,Sí
+X0000220,P0005100,C01117,2025-01-28,Antes del envío,Problema con el pago,No aplica
+X0000221,P0005107,C01118,2026-08-17,En tránsito,Demora en el envío,Sí
+X0000222,P0005110,C01119,2025-05-23,Antes del envío,Problema con el pago,No aplica
+X0000223,P0005113,C01120,2025-11-12,Antes del envío,Encontró mejor precio,Sí
+X0000224,P0005125,C01123,2025-03-23,En tránsito,Error en el pedido,Sí
+X0000225,P0005134,C01124,2025-04-23,Antes del envío,Encontró mejor precio,Sí
+X0000226,P0005143,C01126,2026-09-18,Antes del envío,Cambio de opinión,No aplica
+X0000227,P0005161,C01129,2025-01-04,Antes del envío,Error en el pedido,Sí
+X0000228,P0005168,C01129,2026-03-05,En tránsito,Problema con el pago,Sí
+X0000229,P0005224,C01142,2025-02-25,Antes del envío,Error en el pedido,No aplica
+X0000230,P0005272,C01151,2026-07-06,En tránsito,Demora en el envío,Sí
+X0000231,P0005276,C01154,2025-06-09,Antes del envío,Problema con el pago,No aplica
+X0000232,P0005284,C01156,2025-06-11,Antes del envío,Problema con el pago,No aplica
+X0000233,P0005341,C01169,2025-10-25,Antes del envío,Cambio de opinión,Sí
+X0000234,P0005416,C01180,2025-02-08,Antes del envío,Error en el pedido,Sí
+X0000235,P0005441,C01187,2025-10-03,Antes del envío,Cambio de opinión,Sí
+X0000236,P0005455,C01188,2026-04-04,Antes del envío,Error en el pedido,Sí
+X0000237,P0005480,C01193,2026-07-09,En tránsito,Cambio de opinión,Sí
+X0000238,P0005485,C01195,2025-09-17,Antes del envío,Cambio de opinión,No aplica
+X0000239,P0005491,C01196,2025-09-14,En tránsito,Demora en el envío,Sí
+X0000240,P0005494,C01197,2025-06-10,Antes del envío,Error en el pedido,Sí
+X0000241,P0005508,C01198,2025-11-30,Antes del envío,Error en el pedido,Sí
+X0000242,P0005512,C01201,2025-03-10,Antes del envío,Encontró mejor precio,Sí
+X0000243,P0005531,C01204,2025-05-07,Antes del envío,Error en el pedido,No aplica
+X0000244,P0005587,C01215,2025-05-28,Antes del envío,Cambio de opinión,Sí
+X0000245,P0005625,C01223,2025-03-16,Antes del envío,Error en el pedido,Sí
+X0000246,P0005700,C01237,2025-11-18,Antes del envío,Encontró mejor precio,Sí
+X0000247,P0005740,C01245,2026-08-01,Antes del envío,Encontró mejor precio,No aplica
+X0000248,P0005760,C01248,2026-09-29,En tránsito,Error en el pedido,Sí
+X0000249,P0005777,C01254,2025-10-03,Antes del envío,Encontró mejor precio,No aplica
+X0000250,P0005854,C01271,2025-09-28,Antes del envío,Encontró mejor precio,No aplica
+X0000251,P0005898,C01277,2025-04-15,Antes del envío,Cambio de opinión,Sí
+X0000252,P0005909,C01278,2026-03-08,Antes del envío,Error en el pedido,Sí
+X0000253,P0005917,C01281,2026-03-01,Antes del envío,Problema con el pago,Sí
+X0000254,P0005943,C01287,2025-09-24,Antes del envío,Encontró mejor precio,No aplica
+X0000255,P0005957,C01292,2026-02-27,Antes del envío,Problema con el pago,Sí
+X0000256,P0005970,C01295,2026-08-14,En tránsito,Demora en el envío,No aplica
+X0000257,P0005974,C01297,2025-09-17,Antes del envío,Cambio de opinión,Sí
+X0000258,P0006004,C01303,2026-02-19,En tránsito,Demora en el envío,Sí
+X0000259,P0006044,C01311,2025-08-02,En tránsito,Cambio de opinión,No aplica
+X0000260,P0006053,C01312,2025-11-08,Antes del envío,Error en el pedido,Sí
+X0000261,P0006055,C01312,2026-02-24,Antes del envío,Error en el pedido,Sí
+X0000262,P0006088,C01319,2026-07-13,En tránsito,Demora en el envío,Sí
+X0000263,P0006105,C01323,2026-02-26,Antes del envío,Encontró mejor precio,No aplica
+X0000264,P0006116,C01325,2025-03-18,Antes del envío,Cambio de opinión,Sí
+X0000265,P0006131,C01326,2025-07-07,Antes del envío,Problema con el pago,No aplica
+X0000266,P0006161,C01334,2025-07-28,En tránsito,Demora en el envío,Sí
+X0000267,P0006196,C01345,2025-07-09,Antes del envío,Cambio de opinión,Sí
+X0000268,P0006247,C01361,2026-07-20,En tránsito,Demora en el envío,Sí
+X0000269,P0006270,C01365,2025-06-15,En tránsito,Cambio de opinión,Sí
+X0000270,P0006308,C01370,2025-11-16,Antes del envío,Cambio de opinión,No aplica
+X0000271,P0006314,C01372,2025-11-22,Antes del envío,Error en el pedido,Sí
+X0000272,P0006364,C01380,2026-05-09,En tránsito,Demora en el envío,Sí
+X0000273,P0006378,C01381,2026-09-30,En tránsito,Demora en el envío,Sí
+X0000274,P0006390,C01383,2026-09-08,Antes del envío,Problema con el pago,No aplica
+X0000275,P0006399,C01385,2025-05-24,Antes del envío,Error en el pedido,Sí
+X0000276,P0006417,C01389,2026-02-03,Antes del envío,Encontró mejor precio,No aplica
+X0000277,P0006419,C01389,2026-03-11,En tránsito,Demora en el envío,Sí
+X0000278,P0006462,C01397,2025-11-16,Antes del envío,Cambio de opinión,No aplica
+X0000279,P0006517,C01413,2025-05-01,Antes del envío,Error en el pedido,Sí
+X0000280,P0006519,C01413,2025-10-12,En tránsito,Encontró mejor precio,Sí
+X0000281,P0006557,C01421,2026-02-22,Antes del envío,Problema con el pago,Sí
+X0000282,P0006563,C01422,2025-12-08,Antes del envío,Problema con el pago,Sí
+X0000283,P0006594,C01430,2025-05-28,Antes del envío,Problema con el pago,Sí
+X0000284,P0006601,C01431,2025-04-08,Antes del envío,Cambio de opinión,No aplica
+X0000285,P0006609,C01431,2026-03-26,Antes del envío,Cambio de opinión,No aplica
+X0000286,P0006695,C01449,2025-02-24,En tránsito,Error en el pedido,Sí
+X0000287,P0006719,C01451,2025-12-03,Antes del envío,Error en el pedido,Sí
+X0000288,P0006908,C01489,2026-09-30,En tránsito,Error en el pedido,Sí
+X0000289,P0006915,C01490,2026-07-07,En tránsito,Error en el pedido,Sí
+X0000290,P0006920,C01491,2025-07-21,Antes del envío,Cambio de opinión,No aplica
+X0000291,P0006939,C01496,2025-08-28,Antes del envío,Encontró mejor precio,No aplica
+X0000292,P0006942,C01496,2025-11-29,Antes del envío,Encontró mejor precio,Sí
+X0000293,P0006943,C01496,2026-01-16,Antes del envío,Problema con el pago,Sí
+X0000294,P0006970,C01504,2025-02-13,Antes del envío,Cambio de opinión,Sí
+X0000295,P0006984,C01507,2025-01-11,En tránsito,Demora en el envío,Sí
+X0000296,P0007018,C01514,2026-04-20,Antes del envío,Encontró mejor precio,Sí
+X0000297,P0007038,C01520,2025-05-09,Antes del envío,Encontró mejor precio,No aplica
+X0000298,P0007047,C01522,2025-04-08,Antes del envío,Cambio de opinión,Sí
+X0000299,P0007055,C01522,2026-07-21,En tránsito,Demora en el envío,Sí
+X0000300,P0007068,C01523,2026-07-04,Antes del envío,Cambio de opinión,Sí
+X0000301,P0007082,C01530,2026-03-05,Antes del envío,Cambio de opinión,Sí
+X0000302,P0007086,C01532,2025-11-19,Antes del envío,Encontró mejor precio,Sí
+X0000303,P0007102,C01534,2026-05-24,En tránsito,Cambio de opinión,Sí
+X0000304,P0007111,C01538,2026-07-02,En tránsito,Demora en el envío,Sí
+X0000305,P0007144,C01546,2025-02-17,En tránsito,Encontró mejor precio,Sí
+X0000306,P0007188,C01553,2026-07-24,En tránsito,Error en el pedido,Sí
+X0000307,P0007194,C01554,2026-04-04,Antes del envío,Encontró mejor precio,Sí
+X0000308,P0007240,C01564,2025-05-28,Antes del envío,Cambio de opinión,No aplica
+X0000309,P0007321,C01576,2025-12-31,Antes del envío,Encontró mejor precio,Sí
+X0000310,P0007343,C01579,2026-05-23,En tránsito,Demora en el envío,Sí
+X0000311,P0007347,C01579,2026-08-02,Antes del envío,Cambio de opinión,No aplica
+X0000312,P0007362,C01584,2025-09-11,Antes del envío,Encontró mejor precio,Sí
+X0000313,P0007466,C01610,2026-09-07,En tránsito,Demora en el envío,No aplica
+X0000314,P0007495,C01620,2025-05-01,Antes del envío,Error en el pedido,No aplica
+X0000315,P0007534,C01631,2025-10-11,Antes del envío,Encontró mejor precio,Sí
+X0000316,P0007713,C01665,2025-01-21,Antes del envío,Error en el pedido,Sí
+X0000317,P0007720,C01670,2025-03-22,Antes del envío,Error en el pedido,Sí
+X0000318,P0007741,C01673,2026-08-05,Antes del envío,Problema con el pago,No aplica
+X0000319,P0007758,C01678,2025-02-26,Antes del envío,Error en el pedido,No aplica
+X0000320,P0007768,C01679,2025-12-25,Antes del envío,Cambio de opinión,Sí
+X0000321,P0007772,C01679,2026-06-20,Antes del envío,Encontró mejor precio,Sí
+X0000322,P0007785,C01681,2026-09-21,En tránsito,Demora en el envío,No aplica
+X0000323,P0007856,C01704,2026-01-29,En tránsito,Demora en el envío,Sí
+X0000324,P0007888,C01708,2025-08-08,Antes del envío,Error en el pedido,Sí
+X0000325,P0007943,C01722,2025-06-29,Antes del envío,Encontró mejor precio,Sí
+X0000326,P0007963,C01727,2026-07-23,En tránsito,Demora en el envío,Sí
+X0000327,P0007976,C01729,2026-06-05,En tránsito,Demora en el envío,Sí
+X0000328,P0007984,C01733,2025-03-09,Antes del envío,Problema con el pago,No aplica
+X0000329,P0008024,C01739,2025-04-15,En tránsito,Demora en el envío,Sí
+X0000330,P0008057,C01744,2025-10-11,Antes del envío,Encontró mejor precio,No aplica
+X0000331,P0008058,C01744,2026-04-17,En tránsito,Demora en el envío,Sí
+X0000332,P0008066,C01746,2025-06-01,Antes del envío,Cambio de opinión,No aplica
+X0000333,P0008076,C01752,2025-02-04,Antes del envío,Encontró mejor precio,No aplica
+X0000334,P0008098,C01754,2026-01-04,Antes del envío,Cambio de opinión,Sí
+X0000335,P0008103,C01754,2026-08-12,En tránsito,Cambio de opinión,Sí
+X0000336,P0008110,C01755,2026-08-16,En tránsito,Cambio de opinión,Sí
+X0000337,P0008118,C01759,2025-04-11,Antes del envío,Cambio de opinión,No aplica
+X0000338,P0008129,C01760,2025-09-01,En tránsito,Demora en el envío,Sí
+X0000339,P0008164,C01765,2025-10-01,En tránsito,Problema con el pago,Sí
+X0000340,P0008192,C01770,2026-05-28,En tránsito,Demora en el envío,No aplica
+X0000341,P0008228,C01783,2025-04-10,En tránsito,Demora en el envío,Sí
+X0000342,P0008246,C01787,2025-06-20,En tránsito,Demora en el envío,No aplica
+X0000343,P0008264,C01791,2025-01-10,Antes del envío,Encontró mejor precio,No aplica
+X0000344,P0008276,C01792,2026-02-14,En tránsito,Demora en el envío,Sí
+X0000345,P0008302,C01797,2025-05-09,Antes del envío,Cambio de opinión,Sí
+X0000346,P0008413,C01818,2025-01-31,Antes del envío,Cambio de opinión,Sí
+X0000347,P0008466,C01829,2025-05-30,En tránsito,Demora en el envío,Sí
+X0000348,P0008485,C01837,2025-11-26,Antes del envío,Error en el pedido,No aplica
+X0000349,P0008518,C01844,2025-01-17,Antes del envío,Cambio de opinión,No aplica
+X0000350,P0008520,C01845,2025-03-26,En tránsito,Demora en el envío,No aplica
+X0000351,P0008544,C01852,2025-03-31,Antes del envío,Cambio de opinión,Sí
+X0000352,P0008549,C01853,2025-01-14,Antes del envío,Cambio de opinión,Sí
+X0000353,P0008591,C01861,2025-11-26,En tránsito,Demora en el envío,No aplica
+X0000354,P0008610,C01864,2026-01-11,Antes del envío,Problema con el pago,No aplica
+X0000355,P0008656,C01879,2025-06-08,Antes del envío,Cambio de opinión,Sí
+X0000356,P0008657,C01879,2025-08-12,Antes del envío,Error en el pedido,Sí
+X0000357,P0008666,C01882,2025-11-07,Antes del envío,Encontró mejor precio,Sí
+X0000358,P0008703,C01892,2026-02-19,Antes del envío,Encontró mejor precio,Sí
+X0000359,P0008706,C01892,2026-09-30,En tránsito,Demora en el envío,Sí
+X0000360,P0008795,C01915,2026-08-10,En tránsito,Problema con el pago,No aplica
+X0000361,P0008804,C01921,2025-01-25,Antes del envío,Problema con el pago,No aplica
+X0000362,P0008825,C01926,2025-07-06,Antes del envío,Cambio de opinión,Sí
+X0000363,P0008849,C01929,2026-05-17,En tránsito,Demora en el envío,No aplica
+X0000364,P0008869,C01934,2025-03-20,Antes del envío,Problema con el pago,Sí
+X0000365,P0008870,C01934,2025-04-02,En tránsito,Demora en el envío,Sí
+X0000366,P0008902,C01941,2026-01-23,Antes del envío,Error en el pedido,Sí
+X0000367,P0008905,C01946,2025-03-27,Antes del envío,Encontró mejor precio,Sí
+X0000368,P0008931,C01953,2025-03-16,Antes del envío,Cambio de opinión,Sí
+X0000369,P0008967,C01959,2026-05-26,Antes del envío,Problema con el pago,Sí
+X0000370,P0009017,C01970,2026-07-23,Antes del envío,Problema con el pago,Sí
+X0000371,P0009020,C01971,2025-03-16,Antes del envío,Cambio de opinión,Sí
+X0000372,P0009041,C01976,2026-07-23,En tránsito,Cambio de opinión,Sí
+X0000373,P0009046,C01977,2025-12-01,Antes del envío,Encontró mejor precio,No aplica
+X0000374,P0009057,C01980,2025-10-03,Antes del envío,Encontró mejor precio,Sí
+X0000375,P0009065,C01983,2025-08-27,Antes del envío,Problema con el pago,Sí
+X0000376,P0009191,C02010,2026-03-18,Antes del envío,Cambio de opinión,Sí
+X0000377,P0009255,C02026,2025-04-01,En tránsito,Demora en el envío,No aplica
+X0000378,P0009273,C02029,2025-02-26,Antes del envío,Encontró mejor precio,No aplica
+X0000379,P0009277,C02029,2026-06-01,En tránsito,Demora en el envío,Sí
+X0000380,P0009290,C02033,2025-11-12,Antes del envío,Encontró mejor precio,Sí
+X0000381,P0009309,C02038,2025-05-07,Antes del envío,Cambio de opinión,No aplica
+X0000382,P0009323,C02041,2026-09-17,Antes del envío,Cambio de opinión,Sí
+X0000383,P0009328,C02044,2025-08-28,Antes del envío,Error en el pedido,Sí
+X0000384,P0009356,C02048,2026-04-22,En tránsito,Demora en el envío,Sí
+X0000385,P0009357,C02048,2026-05-24,En tránsito,Demora en el envío,Sí
+X0000386,P0009373,C02050,2026-05-22,Antes del envío,Encontró mejor precio,No aplica
+X0000387,P0009388,C02054,2026-05-09,En tránsito,Demora en el envío,Sí
+X0000388,P0009441,C02067,2025-09-22,Antes del envío,Problema con el pago,Sí
+X0000389,P0009469,C02073,2025-10-29,Antes del envío,Encontró mejor precio,Sí
+X0000390,P0009506,C02078,2026-05-05,Antes del envío,Cambio de opinión,No aplica
+X0000391,P0009560,C02090,2026-09-22,Antes del envío,Error en el pedido,Sí
+X0000392,P0009595,C02102,2025-08-22,Antes del envío,Error en el pedido,No aplica
+X0000393,P0009621,C02110,2025-05-12,Antes del envío,Problema con el pago,No aplica
+X0000394,P0009626,C02112,2025-08-12,Antes del envío,Error en el pedido,Sí
+X0000395,P0009709,C02139,2025-06-10,En tránsito,Error en el pedido,No aplica
+X0000396,P0009710,C02139,2025-07-03,Antes del envío,Problema con el pago,Sí
+X0000397,P0009720,C02140,2025-09-04,En tránsito,Demora en el envío,Sí
+X0000398,P0009772,C02156,2026-04-29,En tránsito,Encontró mejor precio,Sí
+X0000399,P0009801,C02168,2025-11-13,Antes del envío,Cambio de opinión,Sí
+X0000400,P0009803,C02169,2025-04-21,Antes del envío,Cambio de opinión,Sí
+X0000401,P0009809,C02174,2025-07-19,Antes del envío,Cambio de opinión,No aplica
+X0000402,P0009864,C02192,2025-04-30,Antes del envío,Error en el pedido,Sí
+X0000403,P0009877,C02194,2025-05-14,Antes del envío,Error en el pedido,Sí
+X0000404,P0009910,C02204,2025-09-14,Antes del envío,Encontró mejor precio,Sí
+X0000405,P0009947,C02218,2025-04-16,Antes del envío,Problema con el pago,Sí
+X0000406,P0009948,C02219,2025-07-22,Antes del envío,Cambio de opinión,Sí
+X0000407,P0010025,C02244,2025-04-27,Antes del envío,Cambio de opinión,Sí
+X0000408,P0010026,C02244,2025-04-09,En tránsito,Error en el pedido,No aplica
+X0000409,P0010056,C02252,2026-04-03,Antes del envío,Encontró mejor precio,Sí
+X0000410,P0010104,C02263,2025-10-09,Antes del envío,Problema con el pago,Sí
+X0000411,P0010127,C02268,2025-04-16,Antes del envío,Problema con el pago,Sí
+X0000412,P0010148,C02271,2026-06-18,En tránsito,Demora en el envío,Sí
+X0000413,P0010166,C02273,2026-07-16,En tránsito,Error en el pedido,Sí
+X0000414,P0010172,C02277,2025-03-07,Antes del envío,Encontró mejor precio,Sí
+X0000415,P0010186,C02281,2026-05-02,En tránsito,Demora en el envío,Sí
+X0000416,P0010253,C02302,2026-05-18,En tránsito,Demora en el envío,Sí
+X0000417,P0010263,C02305,2026-09-17,Antes del envío,Cambio de opinión,No aplica
+X0000418,P0010270,C02306,2026-03-06,Antes del envío,Encontró mejor precio,Sí
+X0000419,P0010280,C02308,2025-10-28,Antes del envío,Cambio de opinión,Sí
+X0000420,P0010304,C02312,2026-06-07,Antes del envío,Cambio de opinión,Sí
+X0000421,P0010318,C02315,2025-05-08,Antes del envío,Error en el pedido,Sí
+X0000422,P0010343,C02323,2025-09-28,Antes del envío,Encontró mejor precio,Sí
+X0000423,P0010357,C02324,2026-04-14,Antes del envío,Problema con el pago,Sí
+X0000424,P0010456,C02345,2025-05-10,En tránsito,Demora en el envío,No aplica
+X0000425,P0010480,C02349,2026-05-04,En tránsito,Encontró mejor precio,Sí
+X0000426,P0010524,C02362,2026-06-16,En tránsito,Encontró mejor precio,Sí
+X0000427,P0010525,C02362,2026-08-23,En tránsito,Demora en el envío,No aplica
+X0000428,P0010540,C02366,2025-03-20,Antes del envío,Encontró mejor precio,Sí
+X0000429,P0010607,C02384,2026-02-03,Antes del envío,Encontró mejor precio,Sí
+X0000430,P0010613,C02385,2025-05-15,Antes del envío,Encontró mejor precio,Sí
+X0000431,P0010627,C02388,2026-08-24,En tránsito,Problema con el pago,Sí
+X0000432,P0010680,C02406,2025-12-06,Antes del envío,Cambio de opinión,No aplica
+X0000433,P0010798,C02446,2026-06-18,En tránsito,Problema con el pago,Sí
+X0000434,P0010802,C02448,2026-03-06,Antes del envío,Problema con el pago,Sí
+X0000435,P0010834,C02458,2025-09-24,Antes del envío,Cambio de opinión,No aplica
+X0000436,P0010871,C02472,2025-10-11,Antes del envío,Cambio de opinión,Sí
+X0000437,P0010916,C02489,2026-03-17,Antes del envío,Error en el pedido,Sí
+X0000438,P0010991,C02517,2026-05-02,Antes del envío,Problema con el pago,Sí
+X0000439,P0011035,C02538,2025-08-01,Antes del envío,Problema con el pago,Sí
+X0000440,P0011046,C02540,2026-08-01,En tránsito,Demora en el envío,Sí
+X0000441,P0011054,C02542,2025-06-13,Antes del envío,Error en el pedido,Sí
+X0000442,P0011089,C02552,2025-10-17,En tránsito,Demora en el envío,Sí
+X0000443,P0011103,C02556,2025-11-06,Antes del envío,Cambio de opinión,Sí
+X0000444,P0011126,C02563,2026-04-16,En tránsito,Error en el pedido,Sí
+X0000445,P0011133,C02565,2025-07-25,Antes del envío,Cambio de opinión,No aplica
+X0000446,P0011135,C02565,2025-12-21,En tránsito,Demora en el envío,No aplica
+X0000447,P0011151,C02570,2025-04-13,Antes del envío,Error en el pedido,No aplica
+X0000448,P0011154,C02570,2026-02-25,En tránsito,Demora en el envío,Sí
+X0000449,P0011156,C02570,2026-08-26,En tránsito,Error en el pedido,No aplica
+X0000450,P0011170,C02573,2026-04-20,Antes del envío,Error en el pedido,Sí
+X0000451,P0011224,C02589,2025-12-08,En tránsito,Demora en el envío,Sí
+X0000452,P0011226,C02589,2026-09-15,En tránsito,Demora en el envío,No aplica
+X0000453,P0011236,C02591,2025-10-03,Antes del envío,Encontró mejor precio,No aplica
+X0000454,P0011240,C02591,2026-09-30,En tránsito,Demora en el envío,Sí
+X0000455,P0011247,C02594,2025-06-21,Antes del envío,Encontró mejor precio,Sí
+X0000456,P0011274,C02602,2025-04-24,Antes del envío,Cambio de opinión,Sí
+X0000457,P0011330,C02621,2025-06-30,Antes del envío,Problema con el pago,Sí
+X0000458,P0011362,C02629,2026-06-10,En tránsito,Cambio de opinión,Sí
+X0000459,P0011371,C02631,2025-11-23,En tránsito,Encontró mejor precio,Sí
+X0000460,P0011405,C02637,2026-04-12,En tránsito,Problema con el pago,Sí
+X0000461,P0011446,C02648,2026-05-05,En tránsito,Demora en el envío,Sí
+X0000462,P0011539,C02683,2025-10-18,Antes del envío,Cambio de opinión,Sí
+X0000463,P0011541,C02685,2025-10-11,Antes del envío,Error en el pedido,Sí
+X0000464,P0011617,C02702,2025-05-10,Antes del envío,Problema con el pago,No aplica
+X0000465,P0011649,C02708,2025-11-30,Antes del envío,Problema con el pago,Sí
+X0000466,P0011667,C02714,2025-10-08,Antes del envío,Encontró mejor precio,No aplica
+X0000467,P0011675,C02717,2026-01-01,En tránsito,Demora en el envío,Sí
+X0000468,P0011680,C02719,2025-08-23,Antes del envío,Encontró mejor precio,Sí
+X0000469,P0011722,C02727,2026-09-18,En tránsito,Problema con el pago,Sí
+X0000470,P0011739,C02736,2025-05-27,Antes del envío,Error en el pedido,Sí
+X0000471,P0011741,C02736,2025-09-23,Antes del envío,Problema con el pago,Sí
+X0000472,P0011756,C02742,2025-07-03,Antes del envío,Error en el pedido,No aplica
+X0000473,P0011776,C02747,2026-01-30,Antes del envío,Encontró mejor precio,Sí
+X0000474,P0011784,C02748,2026-09-17,En tránsito,Error en el pedido,Sí
+X0000475,P0011831,C02764,2025-08-23,Antes del envío,Cambio de opinión,No aplica
+X0000476,P0011859,C02776,2025-08-17,Antes del envío,Encontró mejor precio,No aplica
+X0000477,P0011909,C02787,2025-06-19,Antes del envío,Encontró mejor precio,Sí
+X0000478,P0011998,C02812,2026-07-30,En tránsito,Problema con el pago,No aplica
+X0000479,P0012000,C02813,2025-10-12,Antes del envío,Error en el pedido,No aplica
+X0000480,P0012071,C02833,2026-06-17,Antes del envío,Problema con el pago,No aplica
+X0000481,P0012096,C02839,2025-11-08,Antes del envío,Problema con el pago,Sí
+X0000482,P0012129,C02848,2025-12-13,Antes del envío,Cambio de opinión,No aplica
+X0000483,P0012158,C02852,2026-02-05,Antes del envío,Cambio de opinión,Sí
+X0000484,P0012183,C02859,2026-05-07,En tránsito,Encontró mejor precio,Sí
+X0000485,P0012185,C02860,2025-05-19,En tránsito,Demora en el envío,Sí
+X0000486,P0012205,C02866,2025-06-17,Antes del envío,Encontró mejor precio,No aplica
+X0000487,P0012277,C02880,2026-09-25,Antes del envío,Encontró mejor precio,No aplica
+X0000488,P0012351,C02897,2025-08-16,Antes del envío,Cambio de opinión,Sí
+X0000489,P0012387,C02908,2025-07-21,En tránsito,Encontró mejor precio,No aplica
+X0000490,P0012404,C02912,2026-08-28,En tránsito,Error en el pedido,No aplica
+X0000491,P0012430,C02927,2025-05-19,Antes del envío,Error en el pedido,Sí
+X0000492,P0012446,C02932,2026-06-17,Antes del envío,Encontró mejor precio,Sí
+X0000493,P0012468,C02937,2025-10-01,Antes del envío,Encontró mejor precio,Sí
+X0000494,P0012490,C02940,2026-09-24,En tránsito,Demora en el envío,Sí
+X0000495,P0012513,C02948,2026-01-28,Antes del envío,Cambio de opinión,Sí
+X0000496,P0012514,C02948,2026-03-15,Antes del envío,Encontró mejor precio,Sí
+X0000497,P0012596,C02981,2025-10-09,Antes del envío,Error en el pedido,Sí
+X0000498,P0012607,C02985,2025-07-03,Antes del envío,Encontró mejor precio,Sí
+X0000499,P0012618,C02991,2025-11-17,Antes del envío,Error en el pedido,No aplica
+X0000500,P0012673,C03011,2025-08-05,Antes del envío,Cambio de opinión,No aplica
+X0000501,P0012699,C03020,2025-12-04,Antes del envío,Encontró mejor precio,Sí
+X0000502,P0012705,C03023,2025-10-02,Antes del envío,Problema con el pago,Sí
+X0000503,P0012738,C03028,2026-05-19,En tránsito,Demora en el envío,Sí
+X0000504,P0012739,C03028,2026-07-17,En tránsito,Demora en el envío,No aplica
+X0000505,P0012745,C03033,2026-06-02,En tránsito,Demora en el envío,Sí
+X0000506,P0012772,C03048,2026-01-16,Antes del envío,Cambio de opinión,Sí
+X0000507,P0012833,C03070,2026-01-27,Antes del envío,Encontró mejor precio,Sí
+X0000508,P0012842,C03074,2025-09-12,Antes del envío,Encontró mejor precio,No aplica
+X0000509,P0012845,C03076,2025-06-13,Antes del envío,Problema con el pago,Sí
+X0000510,P0012867,C03088,2025-06-17,Antes del envío,Encontró mejor precio,Sí
+X0000511,P0012983,C03122,2026-02-09,En tránsito,Demora en el envío,Sí
+X0000512,P0012986,C03122,2026-05-20,En tránsito,Error en el pedido,No aplica
+X0000513,P0012998,C03126,2025-10-21,Antes del envío,Encontró mejor precio,Sí
+X0000514,P0013070,C03145,2026-04-21,Antes del envío,Error en el pedido,No aplica
+X0000515,P0013072,C03145,2026-05-25,En tránsito,Demora en el envío,Sí
+X0000516,P0013097,C03151,2025-12-15,En tránsito,Demora en el envío,No aplica
+X0000517,P0013133,C03163,2025-12-10,Antes del envío,Cambio de opinión,Sí
+X0000518,P0013177,C03180,2026-05-18,En tránsito,Demora en el envío,Sí
+X0000519,P0013198,C03183,2026-03-31,Antes del envío,Error en el pedido,Sí
+X0000520,P0013212,C03188,2025-11-12,Antes del envío,Encontró mejor precio,No aplica
+X0000521,P0013283,C03212,2025-08-30,Antes del envío,Encontró mejor precio,Sí
+X0000522,P0013295,C03216,2025-12-15,Antes del envío,Error en el pedido,Sí
+X0000523,P0013303,C03220,2025-08-28,Antes del envío,Cambio de opinión,No aplica
+X0000524,P0013317,C03223,2025-10-30,Antes del envío,Cambio de opinión,Sí
+X0000525,P0013327,C03224,2025-09-21,Antes del envío,Encontró mejor precio,No aplica
+X0000526,P0013343,C03227,2025-07-22,Antes del envío,Encontró mejor precio,Sí
+X0000527,P0013425,C03252,2026-05-13,En tránsito,Demora en el envío,No aplica
+X0000528,P0013446,C03259,2026-01-20,Antes del envío,Encontró mejor precio,No aplica
+X0000529,P0013460,C03263,2026-09-30,En tránsito,Error en el pedido,Sí
+X0000530,P0013477,C03266,2026-05-04,En tránsito,Problema con el pago,Sí
+X0000531,P0013489,C03269,2025-12-13,Antes del envío,Cambio de opinión,No aplica
+X0000532,P0013512,C03287,2026-09-24,En tránsito,Demora en el envío,Sí
+X0000533,P0013553,C03312,2026-02-25,Antes del envío,Encontró mejor precio,Sí
+X0000534,P0013555,C03312,2026-04-11,En tránsito,Problema con el pago,Sí
+X0000535,P0013563,C03316,2025-07-19,Antes del envío,Error en el pedido,Sí
+X0000536,P0013589,C03322,2025-07-10,Antes del envío,Cambio de opinión,Sí
+X0000537,P0013644,C03348,2026-09-30,En tránsito,Demora en el envío,Sí
+X0000538,P0013668,C03355,2025-09-19,Antes del envío,Error en el pedido,No aplica
+X0000539,P0013680,C03362,2025-09-20,Antes del envío,Problema con el pago,No aplica
+X0000540,P0013703,C03367,2026-02-15,Antes del envío,Encontró mejor precio,Sí
+X0000541,P0013722,C03374,2025-09-25,Antes del envío,Cambio de opinión,No aplica
+X0000542,P0013737,C03378,2025-09-24,Antes del envío,Cambio de opinión,No aplica
+X0000543,P0013740,C03379,2025-10-10,En tránsito,Demora en el envío,No aplica
+X0000544,P0013759,C03384,2026-05-13,En tránsito,Demora en el envío,Sí
+X0000545,P0013783,C03393,2025-07-23,Antes del envío,Cambio de opinión,Sí
+X0000546,P0013792,C03399,2025-08-27,Antes del envío,Error en el pedido,Sí
+X0000547,P0013805,C03402,2026-06-27,Antes del envío,Cambio de opinión,Sí
+X0000548,P0013806,C03402,2026-08-22,En tránsito,Demora en el envío,Sí
+X0000549,P0013824,C03407,2025-11-26,Antes del envío,Cambio de opinión,No aplica
+X0000550,P0013835,C03413,2026-04-25,En tránsito,Demora en el envío,No aplica
+X0000551,P0013847,C03416,2025-12-10,Antes del envío,Cambio de opinión,Sí
+X0000552,P0013857,C03417,2025-12-30,Antes del envío,Encontró mejor precio,No aplica
+X0000553,P0013860,C03417,2026-05-16,Antes del envío,Cambio de opinión,Sí
+X0000554,P0013888,C03422,2026-07-03,En tránsito,Demora en el envío,Sí
+X0000555,P0013895,C03425,2026-08-01,En tránsito,Encontró mejor precio,Sí
+X0000556,P0013921,C03436,2026-04-01,Antes del envío,Error en el pedido,No aplica
+X0000557,P0014005,C03467,2026-03-22,Antes del envío,Error en el pedido,No aplica
+X0000558,P0014025,C03472,2025-07-21,En tránsito,Problema con el pago,Sí
+X0000559,P0014027,C03472,2025-11-27,Antes del envío,Encontró mejor precio,Sí
+X0000560,P0014034,C03473,2026-07-14,En tránsito,Encontró mejor precio,Sí
+X0000561,P0014123,C03497,2025-12-27,En tránsito,Demora en el envío,No aplica
+X0000562,P0014137,C03498,2026-05-23,En tránsito,Demora en el envío,Sí
+X0000563,P0014140,C03501,2026-05-02,En tránsito,Demora en el envío,No aplica
+X0000564,P0014145,C03503,2026-04-23,En tránsito,Demora en el envío,No aplica
+X0000565,P0014146,C03503,2026-06-30,En tránsito,Encontró mejor precio,Sí
+X0000566,P0014165,C03507,2026-07-20,En tránsito,Demora en el envío,Sí
+X0000567,P0014196,C03515,2025-08-17,En tránsito,Demora en el envío,Sí
+X0000568,P0014219,C03524,2026-06-01,En tránsito,Demora en el envío,Sí
+X0000569,P0014222,C03525,2025-07-20,En tránsito,Demora en el envío,No aplica
+X0000570,P0014224,C03525,2025-11-27,Antes del envío,Cambio de opinión,No aplica
+X0000571,P0014241,C03531,2026-04-17,En tránsito,Demora en el envío,Sí
+X0000572,P0014287,C03549,2025-10-01,Antes del envío,Encontró mejor precio,No aplica
+X0000573,P0014289,C03553,2025-10-03,Antes del envío,Error en el pedido,No aplica
+X0000574,P0014307,C03560,2026-05-24,Antes del envío,Problema con el pago,Sí
+X0000575,P0014315,C03563,2026-05-11,En tránsito,Demora en el envío,Sí
+X0000576,P0014337,C03573,2026-09-09,En tránsito,Encontró mejor precio,Sí
+X0000577,P0014339,C03574,2025-10-22,Antes del envío,Cambio de opinión,Sí
+X0000578,P0014348,C03575,2026-08-25,Antes del envío,Error en el pedido,Sí
+X0000579,P0014356,C03578,2025-12-26,Antes del envío,Error en el pedido,Sí
+X0000580,P0014364,C03584,2025-10-22,Antes del envío,Cambio de opinión,No aplica
+X0000581,P0014379,C03591,2026-04-18,En tránsito,Error en el pedido,Sí
+X0000582,P0014385,C03593,2026-06-21,En tránsito,Demora en el envío,Sí
+X0000583,P0014414,C03606,2026-05-29,En tránsito,Demora en el envío,Sí
+X0000584,P0014427,C03618,2026-09-20,En tránsito,Encontró mejor precio,Sí
+X0000585,P0014473,C03634,2025-10-15,Antes del envío,Error en el pedido,No aplica
+X0000586,P0014477,C03634,2026-08-12,En tránsito,Demora en el envío,Sí
+X0000587,P0014493,C03639,2026-09-11,En tránsito,Demora en el envío,No aplica
+X0000588,P0014500,C03642,2026-09-20,En tránsito,Demora en el envío,Sí
+X0000589,P0014504,C03643,2026-03-30,Antes del envío,Cambio de opinión,No aplica
+X0000590,P0014526,C03650,2026-01-15,En tránsito,Demora en el envío,Sí
+X0000591,P0014527,C03650,2026-04-27,En tránsito,Error en el pedido,Sí
+X0000592,P0014543,C03660,2025-11-20,Antes del envío,Cambio de opinión,No aplica
+X0000593,P0014587,C03680,2025-10-23,En tránsito,Demora en el envío,No aplica
+X0000594,P0014599,C03683,2025-08-20,En tránsito,Demora en el envío,Sí
+X0000595,P0014635,C03692,2026-09-12,En tránsito,Demora en el envío,Sí
+X0000596,P0014640,C03693,2026-01-27,Antes del envío,Cambio de opinión,No aplica
+X0000597,P0014649,C03696,2025-09-02,Antes del envío,Error en el pedido,Sí
+X0000598,P0014653,C03696,2026-04-18,En tránsito,Demora en el envío,Sí
+X0000599,P0014663,C03698,2025-11-27,Antes del envío,Error en el pedido,Sí
+X0000600,P0014688,C03704,2026-08-05,En tránsito,Error en el pedido,Sí
+X0000601,P0014701,C03706,2025-10-23,Antes del envío,Cambio de opinión,Sí
+X0000602,P0014732,C03715,2026-05-20,En tránsito,Demora en el envío,Sí
+X0000603,P0014736,C03717,2025-08-12,En tránsito,Demora en el envío,Sí
+X0000604,P0014764,C03722,2025-09-19,Antes del envío,Cambio de opinión,Sí
+X0000605,P0014784,C03727,2026-09-16,En tránsito,Demora en el envío,Sí
+X0000606,P0014795,C03729,2026-05-20,En tránsito,Demora en el envío,Sí
+X0000607,P0014815,C03734,2026-08-04,En tránsito,Error en el pedido,Sí
+X0000608,P0014819,C03735,2025-12-11,Antes del envío,Problema con el pago,No aplica
+X0000609,P0014855,C03749,2025-08-20,Antes del envío,Cambio de opinión,No aplica
+X0000610,P0014883,C03758,2026-06-14,En tránsito,Demora en el envío,No aplica
+X0000611,P0014899,C03768,2025-08-14,Antes del envío,Encontró mejor precio,Sí
+X0000612,P0014927,C03775,2025-09-22,Antes del envío,Encontró mejor precio,No aplica
+X0000613,P0014970,C03787,2026-06-26,Antes del envío,Cambio de opinión,No aplica
+X0000614,P0015014,C03809,2025-09-22,Antes del envío,Problema con el pago,No aplica
+X0000615,P0015024,C03810,2026-02-01,Antes del envío,Encontró mejor precio,No aplica
+X0000616,P0015031,C03811,2026-04-12,En tránsito,Demora en el envío,Sí
+X0000617,P0015051,C03816,2025-12-14,En tránsito,Demora en el envío,Sí
+X0000618,P0015059,C03818,2025-08-20,Antes del envío,Error en el pedido,Sí
+X0000619,P0015091,C03829,2026-08-20,En tránsito,Demora en el envío,No aplica
+X0000620,P0015120,C03835,2026-08-20,En tránsito,Demora en el envío,Sí
+X0000621,P0015157,C03847,2026-06-03,Antes del envío,Encontró mejor precio,No aplica
+X0000622,P0015164,C03851,2025-09-23,Antes del envío,Encontró mejor precio,Sí
+X0000623,P0015173,C03855,2026-02-05,En tránsito,Demora en el envío,Sí
+X0000624,P0015178,C03856,2026-01-03,Antes del envío,Problema con el pago,No aplica
+X0000625,P0015182,C03856,2026-08-11,Antes del envío,Cambio de opinión,Sí
+X0000626,P0015189,C03857,2026-09-20,En tránsito,Demora en el envío,Sí
+X0000627,P0015191,C03860,2026-06-02,En tránsito,Error en el pedido,Sí
+X0000628,P0015195,C03861,2025-11-26,Antes del envío,Problema con el pago,Sí
+X0000629,P0015202,C03862,2026-09-25,En tránsito,Cambio de opinión,Sí
+X0000630,P0015217,C03868,2025-09-23,Antes del envío,Encontró mejor precio,Sí
+X0000631,P0015222,C03868,2026-07-01,En tránsito,Cambio de opinión,Sí
+X0000632,P0015226,C03869,2025-11-18,En tránsito,Problema con el pago,Sí
+X0000633,P0015243,C03878,2025-10-27,Antes del envío,Problema con el pago,Sí
+X0000634,P0015245,C03878,2026-01-14,Antes del envío,Problema con el pago,No aplica
+X0000635,P0015295,C03892,2026-05-06,En tránsito,Problema con el pago,No aplica
+X0000636,P0015297,C03893,2026-05-22,Antes del envío,Encontró mejor precio,Sí
+X0000637,P0015318,C03899,2026-02-01,Antes del envío,Encontró mejor precio,Sí
+X0000638,P0015342,C03907,2025-11-19,Antes del envío,Cambio de opinión,Sí
+X0000639,P0015375,C03918,2025-08-27,Antes del envío,Error en el pedido,Sí
+X0000640,P0015377,C03918,2026-02-15,Antes del envío,Error en el pedido,No aplica
+X0000641,P0015428,C03941,2026-07-17,En tránsito,Demora en el envío,Sí
+X0000642,P0015463,C03959,2025-12-12,En tránsito,Error en el pedido,Sí
+X0000643,P0015478,C03964,2025-10-28,Antes del envío,Problema con el pago,Sí
+X0000644,P0015509,C03976,2026-01-04,Antes del envío,Encontró mejor precio,Sí
+X0000645,P0015510,C03978,2025-09-25,Antes del envío,Problema con el pago,Sí
+X0000646,P0015520,C03979,2026-06-23,En tránsito,Encontró mejor precio,Sí
+X0000647,P0015535,C03988,2025-11-04,Antes del envío,Cambio de opinión,Sí
+X0000648,P0015580,C04003,2026-08-02,En tránsito,Problema con el pago,No aplica
+X0000649,P0015596,C04006,2026-07-29,Antes del envío,Cambio de opinión,Sí
+X0000650,P0015597,C04006,2026-09-01,En tránsito,Demora en el envío,Sí
+X0000651,P0015608,C04012,2026-05-17,En tránsito,Demora en el envío,Sí
+X0000652,P0015676,C04031,2025-11-21,Antes del envío,Encontró mejor precio,Sí
+X0000653,P0015687,C04032,2026-09-20,Antes del envío,Encontró mejor precio,Sí
+X0000654,P0015700,C04036,2026-03-03,Antes del envío,Cambio de opinión,Sí
+X0000655,P0015748,C04044,2026-06-08,En tránsito,Encontró mejor precio,Sí
+X0000656,P0015829,C04072,2025-10-23,Antes del envío,Problema con el pago,Sí
+X0000657,P0015853,C04080,2026-08-21,En tránsito,Demora en el envío,No aplica
+X0000658,P0015900,C04098,2026-04-03,En tránsito,Demora en el envío,Sí
+X0000659,P0015933,C04106,2026-05-04,Antes del envío,Error en el pedido,Sí
+X0000660,P0015956,C04113,2026-06-09,En tránsito,Demora en el envío,Sí
+X0000661,P0015962,C04115,2026-05-24,Antes del envío,Encontró mejor precio,Sí
+X0000662,P0016002,C04126,2026-07-04,En tránsito,Demora en el envío,Sí
+X0000663,P0016007,C04131,2026-03-30,En tránsito,Cambio de opinión,Sí
+X0000664,P0016015,C04133,2026-02-19,Antes del envío,Encontró mejor precio,No aplica
+X0000665,P0016050,C04143,2025-10-15,Antes del envío,Cambio de opinión,No aplica
+X0000666,P0016081,C04157,2025-11-01,Antes del envío,Encontró mejor precio,Sí
+X0000667,P0016095,C04160,2026-03-11,Antes del envío,Encontró mejor precio,No aplica
+X0000668,P0016109,C04162,2026-05-16,Antes del envío,Encontró mejor precio,Sí
+X0000669,P0016122,C04165,2026-02-08,Antes del envío,Cambio de opinión,Sí
+X0000670,P0016123,C04165,2026-08-20,En tránsito,Problema con el pago,Sí
+X0000671,P0016127,C04166,2026-01-23,Antes del envío,Cambio de opinión,Sí
+X0000672,P0016136,C04170,2026-03-22,Antes del envío,Cambio de opinión,No aplica
+X0000673,P0016169,C04185,2026-07-05,Antes del envío,Cambio de opinión,Sí
+X0000674,P0016179,C04193,2025-12-20,Antes del envío,Problema con el pago,No aplica
+X0000675,P0016212,C04204,2025-10-09,Antes del envío,Problema con el pago,No aplica
+X0000676,P0016213,C04204,2025-12-27,En tránsito,Demora en el envío,Sí
+X0000677,P0016272,C04234,2026-05-09,En tránsito,Demora en el envío,Sí
+X0000678,P0016315,C04254,2026-01-31,Antes del envío,Encontró mejor precio,Sí
+X0000679,P0016319,C04254,2026-07-06,En tránsito,Demora en el envío,Sí
+X0000680,P0016320,C04254,2026-09-13,En tránsito,Demora en el envío,No aplica
+X0000681,P0016327,C04256,2026-05-28,En tránsito,Demora en el envío,No aplica
+X0000682,P0016351,C04263,2026-01-21,Antes del envío,Error en el pedido,Sí
+X0000683,P0016357,C04264,2025-10-29,Antes del envío,Encontró mejor precio,Sí
+X0000684,P0016396,C04277,2026-01-05,En tránsito,Encontró mejor precio,Sí
+X0000685,P0016418,C04280,2026-01-17,Antes del envío,Error en el pedido,No aplica
+X0000686,P0016425,C04282,2026-01-20,Antes del envío,Cambio de opinión,Sí
+X0000687,P0016461,C04294,2026-07-01,En tránsito,Cambio de opinión,No aplica
+X0000688,P0016477,C04304,2025-11-10,Antes del envío,Cambio de opinión,No aplica
+X0000689,P0016479,C04304,2025-12-11,Antes del envío,Error en el pedido,Sí
+X0000690,P0016485,C04305,2026-03-30,Antes del envío,Cambio de opinión,Sí
+X0000691,P0016535,C04321,2026-06-22,En tránsito,Demora en el envío,No aplica
+X0000692,P0016549,C04328,2026-06-16,En tránsito,Demora en el envío,Sí
+X0000693,P0016574,C04336,2026-07-22,Antes del envío,Cambio de opinión,No aplica
+X0000694,P0016599,C04344,2026-05-24,En tránsito,Demora en el envío,Sí
+X0000695,P0016603,C04345,2026-06-05,En tránsito,Demora en el envío,Sí
+X0000696,P0016604,C04345,2026-07-30,En tránsito,Error en el pedido,Sí
+X0000697,P0016687,C04371,2025-11-08,Antes del envío,Error en el pedido,No aplica
+X0000698,P0016698,C04374,2026-09-30,En tránsito,Demora en el envío,Sí
+X0000699,P0016716,C04380,2026-01-30,Antes del envío,Problema con el pago,No aplica
+X0000700,P0016750,C04392,2026-06-24,En tránsito,Demora en el envío,Sí
+X0000701,P0016888,C04451,2026-03-11,Antes del envío,Encontró mejor precio,Sí
+X0000702,P0016889,C04451,2026-04-04,Antes del envío,Encontró mejor precio,No aplica
+X0000703,P0016895,C04457,2025-12-20,Antes del envío,Problema con el pago,Sí
+X0000704,P0016965,C04487,2026-08-13,En tránsito,Error en el pedido,Sí
+X0000705,P0016989,C04498,2026-04-06,En tránsito,Demora en el envío,Sí
+X0000706,P0016997,C04501,2026-01-29,Antes del envío,Encontró mejor precio,Sí
+X0000707,P0017013,C04510,2026-03-07,Antes del envío,Problema con el pago,Sí
+X0000708,P0017037,C04522,2025-12-02,Antes del envío,Cambio de opinión,Sí
+X0000709,P0017049,C04526,2026-05-23,En tránsito,Demora en el envío,Sí
+X0000710,P0017056,C04527,2026-06-11,En tránsito,Demora en el envío,Sí
+X0000711,P0017077,C04533,2026-05-09,En tránsito,Demora en el envío,Sí
+X0000712,P0017103,C04546,2026-08-18,En tránsito,Cambio de opinión,No aplica
+X0000713,P0017131,C04559,2026-08-27,En tránsito,Demora en el envío,No aplica
+X0000714,P0017166,C04575,2026-04-18,En tránsito,Demora en el envío,No aplica
+X0000715,P0017167,C04575,2026-07-20,En tránsito,Demora en el envío,Sí
+X0000716,P0017194,C04583,2026-04-18,Antes del envío,Error en el pedido,No aplica
+X0000717,P0017195,C04583,2026-06-02,En tránsito,Demora en el envío,Sí
+X0000718,P0017198,C04584,2026-07-26,Antes del envío,Encontró mejor precio,No aplica
+X0000719,P0017226,C04593,2025-11-30,Antes del envío,Encontró mejor precio,Sí
+X0000720,P0017252,C04603,2025-11-23,Antes del envío,Error en el pedido,Sí
+X0000721,P0017275,C04610,2026-09-25,Antes del envío,Encontró mejor precio,Sí
+X0000722,P0017276,C04610,2026-09-13,En tránsito,Cambio de opinión,Sí
+X0000723,P0017288,C04613,2026-06-20,En tránsito,Encontró mejor precio,Sí
+X0000724,P0017328,C04624,2026-09-30,En tránsito,Cambio de opinión,Sí
+X0000725,P0017372,C04636,2026-05-17,En tránsito,Encontró mejor precio,Sí
+X0000726,P0017376,C04637,2026-07-10,En tránsito,Cambio de opinión,Sí
+X0000727,P0017386,C04642,2026-05-28,Antes del envío,Problema con el pago,Sí
+X0000728,P0017436,C04659,2026-02-14,Antes del envío,Encontró mejor precio,No aplica
+X0000729,P0017450,C04663,2026-06-07,En tránsito,Error en el pedido,No aplica
+X0000730,P0017460,C04668,2026-05-30,En tránsito,Problema con el pago,Sí
+X0000731,P0017465,C04671,2026-03-04,En tránsito,Demora en el envío,Sí
+X0000732,P0017471,C04673,2026-06-23,En tránsito,Demora en el envío,Sí
+X0000733,P0017477,C04676,2026-05-21,Antes del envío,Error en el pedido,Sí
+X0000734,P0017488,C04677,2026-09-05,En tránsito,Demora en el envío,No aplica
+X0000735,P0017510,C04686,2026-02-15,Antes del envío,Cambio de opinión,No aplica
+X0000736,P0017526,C04696,2026-01-04,Antes del envío,Encontró mejor precio,No aplica
+X0000737,P0017528,C04696,2026-04-08,En tránsito,Cambio de opinión,Sí
+X0000738,P0017529,C04696,2026-08-11,En tránsito,Error en el pedido,Sí
+X0000739,P0017538,C04701,2026-04-16,En tránsito,Demora en el envío,No aplica
+X0000740,P0017541,C04703,2026-05-28,Antes del envío,Error en el pedido,No aplica
+X0000741,P0017577,C04720,2026-01-30,En tránsito,Demora en el envío,No aplica
+X0000742,P0017579,C04721,2026-02-09,Antes del envío,Encontró mejor precio,No aplica
+X0000743,P0017585,C04725,2026-07-14,En tránsito,Problema con el pago,Sí
+X0000744,P0017587,C04726,2026-02-20,Antes del envío,Cambio de opinión,Sí
+X0000745,P0017608,C04733,2026-07-18,En tránsito,Cambio de opinión,Sí
+X0000746,P0017617,C04739,2026-06-20,En tránsito,Demora en el envío,Sí
+X0000747,P0017629,C04747,2026-03-29,En tránsito,Problema con el pago,Sí
+X0000748,P0017638,C04749,2026-05-27,En tránsito,Encontró mejor precio,Sí
+X0000749,P0017643,C04751,2026-04-25,En tránsito,Demora en el envío,Sí
+X0000750,P0017656,C04756,2026-04-09,En tránsito,Demora en el envío,Sí
+X0000751,P0017673,C04764,2026-04-28,En tránsito,Demora en el envío,Sí
+X0000752,P0017676,C04764,2026-08-05,En tránsito,Demora en el envío,Sí
+X0000753,P0017730,C04791,2026-05-22,En tránsito,Demora en el envío,Sí
+X0000754,P0017746,C04801,2025-12-04,Antes del envío,Error en el pedido,No aplica
+X0000755,P0017750,C04804,2025-12-08,Antes del envío,Encontró mejor precio,Sí
+X0000756,P0017769,C04813,2026-04-12,En tránsito,Problema con el pago,Sí
+X0000757,P0017775,C04818,2026-06-08,En tránsito,Demora en el envío,Sí
+X0000758,P0017778,C04819,2026-08-30,En tránsito,Demora en el envío,Sí
+X0000759,P0017799,C04828,2026-04-09,En tránsito,Demora en el envío,Sí
+X0000760,P0017802,C04832,2025-12-18,Antes del envío,Cambio de opinión,Sí
+X0000761,P0017841,C04850,2026-03-07,Antes del envío,Encontró mejor precio,Sí
+X0000762,P0017843,C04851,2026-03-01,En tránsito,Demora en el envío,Sí
+X0000763,P0017873,C04869,2026-03-28,Antes del envío,Problema con el pago,No aplica
+X0000764,P0017930,C04895,2026-07-01,Antes del envío,Problema con el pago,Sí
+X0000765,P0017958,C04904,2025-12-22,Antes del envío,Cambio de opinión,No aplica
+X0000766,P0018087,C04948,2026-02-26,Antes del envío,Encontró mejor precio,No aplica
+X0000767,P0018101,C04954,2026-05-15,En tránsito,Problema con el pago,No aplica
+X0000768,P0018102,C04954,2026-08-23,En tránsito,Demora en el envío,Sí
+X0000769,P0018103,C04954,2026-09-25,En tránsito,Demora en el envío,Sí
+X0000770,P0018104,C04954,2026-09-15,En tránsito,Demora en el envío,Sí
+X0000771,P0018112,C04956,2026-04-08,En tránsito,Demora en el envío,Sí
+X0000772,P0018116,C04957,2026-03-01,Antes del envío,Cambio de opinión,Sí
+X0000773,P0018163,C04975,2026-07-27,En tránsito,Demora en el envío,Sí
+X0000774,P0018210,C05005,2026-02-03,Antes del envío,Problema con el pago,No aplica
+X0000775,P0018211,C05005,2026-02-15,En tránsito,Demora en el envío,Sí
+X0000776,P0018244,C05026,2026-08-30,En tránsito,Error en el pedido,Sí
+X0000777,P0018271,C05036,2026-07-29,Antes del envío,Encontró mejor precio,No aplica
+X0000778,P0018273,C05037,2025-12-26,Antes del envío,Error en el pedido,Sí
+X0000779,P0018275,C05040,2026-01-01,Antes del envío,Problema con el pago,Sí
+X0000780,P0018292,C05048,2026-06-11,En tránsito,Demora en el envío,Sí
+X0000781,P0018315,C05059,2025-12-31,Antes del envío,Cambio de opinión,No aplica
+X0000782,P0018340,C05070,2026-08-30,Antes del envío,Problema con el pago,Sí
+X0000783,P0018342,C05071,2026-01-31,Antes del envío,Encontró mejor precio,Sí
+X0000784,P0018392,C05088,2026-09-22,Antes del envío,Encontró mejor precio,Sí
+X0000785,P0018395,C05089,2026-02-21,Antes del envío,Problema con el pago,No aplica
+X0000786,P0018409,C05092,2026-08-29,En tránsito,Demora en el envío,Sí
+X0000787,P0018411,C05093,2026-05-02,En tránsito,Encontró mejor precio,Sí
+X0000788,P0018462,C05119,2026-04-09,Antes del envío,Problema con el pago,Sí
+X0000789,P0018474,C05124,2026-02-10,Antes del envío,Error en el pedido,Sí
+X0000790,P0018479,C05128,2025-12-29,Antes del envío,Encontró mejor precio,Sí
+X0000791,P0018495,C05134,2026-08-05,En tránsito,Encontró mejor precio,Sí
+X0000792,P0018501,C05136,2026-04-18,En tránsito,Cambio de opinión,Sí
+X0000793,P0018510,C05140,2026-06-02,En tránsito,Demora en el envío,Sí
+X0000794,P0018529,C05150,2026-04-01,En tránsito,Error en el pedido,Sí
+X0000795,P0018537,C05153,2026-04-14,En tránsito,Cambio de opinión,Sí
+X0000796,P0018561,C05163,2026-05-26,En tránsito,Demora en el envío,Sí
+X0000797,P0018577,C05167,2026-06-16,En tránsito,Error en el pedido,Sí
+X0000798,P0018579,C05168,2026-01-10,Antes del envío,Cambio de opinión,Sí
+X0000799,P0018584,C05169,2026-05-23,En tránsito,Demora en el envío,Sí
+X0000800,P0018587,C05171,2026-06-21,Antes del envío,Encontró mejor precio,Sí
+X0000801,P0018590,C05171,2026-09-09,Antes del envío,Problema con el pago,Sí
+X0000802,P0018599,C05176,2026-06-19,En tránsito,Cambio de opinión,Sí
+X0000803,P0018603,C05177,2026-08-27,En tránsito,Demora en el envío,Sí
+X0000804,P0018607,C05179,2026-02-23,Antes del envío,Cambio de opinión,No aplica
+X0000805,P0018609,C05179,2026-04-15,En tránsito,Demora en el envío,Sí
+X0000806,P0018625,C05192,2026-03-14,Antes del envío,Cambio de opinión,Sí
+X0000807,P0018656,C05220,2026-09-29,En tránsito,Demora en el envío,No aplica
+X0000808,P0018687,C05233,2026-04-13,En tránsito,Demora en el envío,Sí
+X0000809,P0018758,C05267,2026-02-09,En tránsito,Demora en el envío,Sí
+X0000810,P0018761,C05267,2026-06-25,Antes del envío,Error en el pedido,Sí
+X0000811,P0018768,C05270,2026-06-13,En tránsito,Demora en el envío,Sí
+X0000812,P0018783,C05276,2026-07-02,Antes del envío,Cambio de opinión,Sí
+X0000813,P0018788,C05279,2026-01-31,Antes del envío,Cambio de opinión,Sí
+X0000814,P0018837,C05298,2026-05-10,En tránsito,Demora en el envío,Sí
+X0000815,P0018870,C05319,2026-01-24,Antes del envío,Cambio de opinión,Sí
+X0000816,P0018872,C05319,2026-04-30,En tránsito,Demora en el envío,No aplica
+X0000817,P0018889,C05327,2026-01-19,En tránsito,Demora en el envío,Sí
+X0000818,P0018893,C05330,2026-01-20,Antes del envío,Cambio de opinión,No aplica
+X0000819,P0018909,C05334,2026-07-08,En tránsito,Encontró mejor precio,Sí
+X0000820,P0018969,C05363,2026-02-25,Antes del envío,Error en el pedido,Sí
+X0000821,P0018978,C05365,2026-07-11,En tránsito,Demora en el envío,Sí
+X0000822,P0018979,C05365,2026-08-31,En tránsito,Demora en el envío,Sí
+X0000823,P0019020,C05387,2026-09-08,Antes del envío,Problema con el pago,Sí
+X0000824,P0019043,C05401,2026-01-17,Antes del envío,Cambio de opinión,Sí
+X0000825,P0019049,C05403,2026-07-10,Antes del envío,Problema con el pago,No aplica
+X0000826,P0019070,C05410,2026-09-25,Antes del envío,Error en el pedido,Sí
+X0000827,P0019149,C05449,2026-07-03,Antes del envío,Encontró mejor precio,Sí
+X0000828,P0019176,C05464,2026-05-04,Antes del envío,Cambio de opinión,Sí
+X0000829,P0019191,C05472,2026-05-05,En tránsito,Demora en el envío,Sí
+X0000830,P0019193,C05474,2026-01-25,Antes del envío,Cambio de opinión,No aplica
+X0000831,P0019199,C05476,2026-07-29,En tránsito,Problema con el pago,Sí
+X0000832,P0019230,C05497,2026-03-12,Antes del envío,Encontró mejor precio,No aplica
+X0000833,P0019315,C05550,2026-03-27,Antes del envío,Problema con el pago,No aplica
+X0000834,P0019327,C05563,2026-05-28,En tránsito,Demora en el envío,Sí
+X0000835,P0019333,C05566,2026-05-30,En tránsito,Error en el pedido,Sí
+X0000836,P0019352,C05578,2026-02-24,Antes del envío,Error en el pedido,No aplica
+X0000837,P0019372,C05586,2026-04-03,Antes del envío,Problema con el pago,Sí
+X0000838,P0019404,C05595,2026-04-05,En tránsito,Cambio de opinión,Sí
+X0000839,P0019451,C05609,2026-07-04,Antes del envío,Error en el pedido,Sí
+X0000840,P0019466,C05615,2026-08-06,En tránsito,Encontró mejor precio,Sí
+X0000841,P0019476,C05619,2026-02-18,Antes del envío,Cambio de opinión,Sí
+X0000842,P0019482,C05620,2026-05-22,Antes del envío,Encontró mejor precio,Sí
+X0000843,P0019487,C05621,2026-02-20,Antes del envío,Encontró mejor precio,Sí
+X0000844,P0019525,C05632,2026-05-19,En tránsito,Demora en el envío,Sí
+X0000845,P0019532,C05636,2026-04-26,En tránsito,Cambio de opinión,Sí
+X0000846,P0019542,C05639,2026-03-27,En tránsito,Demora en el envío,Sí
+X0000847,P0019589,C05668,2026-07-04,En tránsito,Demora en el envío,Sí
+X0000848,P0019592,C05669,2026-03-18,Antes del envío,Cambio de opinión,Sí
+X0000849,P0019643,C05696,2026-04-21,En tránsito,Cambio de opinión,Sí
+X0000850,P0019644,C05697,2026-02-18,Antes del envío,Cambio de opinión,No aplica
+X0000851,P0019654,C05700,2026-03-10,Antes del envío,Problema con el pago,No aplica
+X0000852,P0019687,C05713,2026-06-26,En tránsito,Cambio de opinión,Sí
+X0000853,P0019690,C05714,2026-03-26,Antes del envío,Problema con el pago,Sí
+X0000854,P0019713,C05723,2026-06-08,Antes del envío,Error en el pedido,Sí
+X0000855,P0019765,C05750,2026-08-06,En tránsito,Demora en el envío,Sí
+X0000856,P0019766,C05754,2026-07-07,En tránsito,Demora en el envío,Sí
+X0000857,P0019771,C05760,2026-04-25,En tránsito,Demora en el envío,Sí
+X0000858,P0019772,C05760,2026-07-05,En tránsito,Demora en el envío,Sí
+X0000859,P0019773,C05761,2026-02-21,Antes del envío,Problema con el pago,Sí
+X0000860,P0019783,C05767,2026-06-20,En tránsito,Demora en el envío,Sí
+X0000861,P0019848,C05806,2026-08-25,En tránsito,Demora en el envío,Sí
+X0000862,P0019851,C05809,2026-08-11,En tránsito,Problema con el pago,Sí
+X0000863,P0019859,C05819,2026-04-11,En tránsito,Cambio de opinión,Sí
+X0000864,P0019892,C05837,2026-05-15,En tránsito,Problema con el pago,Sí
+X0000865,P0019897,C05839,2026-07-08,Antes del envío,Cambio de opinión,Sí
+X0000866,P0019905,C05849,2026-05-20,En tránsito,Demora en el envío,Sí
+X0000867,P0019927,C05867,2026-09-03,En tránsito,Cambio de opinión,Sí
+X0000868,P0019935,C05872,2026-08-26,En tránsito,Encontró mejor precio,Sí
+X0000869,P0019973,C05886,2026-05-20,Antes del envío,Cambio de opinión,No aplica
+X0000870,P0019980,C05888,2026-07-18,En tránsito,Demora en el envío,Sí
+X0000871,P0020030,C05916,2026-04-13,En tránsito,Demora en el envío,Sí
+X0000872,P0020055,C05926,2026-05-02,En tránsito,Demora en el envío,No aplica
+X0000873,P0020064,C05929,2026-05-14,Antes del envío,Encontró mejor precio,No aplica
+X0000874,P0020071,C05936,2026-05-10,En tránsito,Demora en el envío,Sí
+X0000875,P0020078,C05938,2026-03-27,Antes del envío,Problema con el pago,No aplica
+X0000876,P0020108,C05948,2026-08-31,Antes del envío,Cambio de opinión,Sí
+X0000877,P0020152,C05973,2026-04-21,En tránsito,Demora en el envío,Sí
+X0000878,P0020206,C06006,2026-05-12,Antes del envío,Cambio de opinión,Sí
+X0000879,P0020209,C06012,2026-08-23,En tránsito,Error en el pedido,Sí
+X0000880,P0020213,C06013,2026-07-10,En tránsito,Demora en el envío,Sí
+X0000881,P0020225,C06020,2026-06-02,En tránsito,Demora en el envío,Sí
+X0000882,P0020227,C06020,2026-08-09,En tránsito,Cambio de opinión,Sí
+X0000883,P0020231,C06024,2026-03-30,Antes del envío,Error en el pedido,Sí
+X0000884,P0020233,C06025,2026-06-22,En tránsito,Cambio de opinión,Sí
+X0000885,P0020246,C06039,2026-04-20,Antes del envío,Cambio de opinión,No aplica
+X0000886,P0020249,C06041,2026-06-03,En tránsito,Cambio de opinión,Sí
+X0000887,P0020254,C06043,2026-06-17,Antes del envío,Error en el pedido,Sí
+X0000888,P0020268,C06053,2026-08-16,En tránsito,Demora en el envío,Sí
+X0000889,P0020281,C06059,2026-07-05,En tránsito,Problema con el pago,Sí
+X0000890,P0020283,C06059,2026-08-03,Antes del envío,Error en el pedido,No aplica
+X0000891,P0020290,C06063,2026-05-02,En tránsito,Demora en el envío,Sí
+X0000892,P0020296,C06065,2026-07-26,Antes del envío,Cambio de opinión,Sí
+X0000893,P0020302,C06069,2026-07-26,En tránsito,Demora en el envío,Sí
+X0000894,P0020343,C06093,2026-05-01,Antes del envío,Problema con el pago,Sí
+X0000895,P0020352,C06098,2026-03-30,Antes del envío,Cambio de opinión,No aplica
+X0000896,P0020365,C06108,2026-09-30,En tránsito,Encontró mejor precio,Sí
+X0000897,P0020373,C06120,2026-06-15,Antes del envío,Cambio de opinión,Sí
+X0000898,P0020403,C06138,2026-03-25,Antes del envío,Cambio de opinión,Sí
+X0000899,P0020431,C06160,2026-07-25,Antes del envío,Problema con el pago,Sí
+X0000900,P0020441,C06168,2026-04-13,En tránsito,Demora en el envío,No aplica
+X0000901,P0020442,C06168,2026-04-23,Antes del envío,Encontró mejor precio,Sí
+X0000902,P0020454,C06178,2026-04-28,En tránsito,Demora en el envío,Sí
+X0000903,P0020468,C06188,2026-04-21,Antes del envío,Cambio de opinión,Sí
+X0000904,P0020472,C06188,2026-09-22,En tránsito,Encontró mejor precio,Sí
+X0000905,P0020504,C06211,2026-04-16,En tránsito,Demora en el envío,No aplica
+X0000906,P0020559,C06241,2026-05-12,En tránsito,Problema con el pago,Sí
+X0000907,P0020563,C06243,2026-05-06,En tránsito,Encontró mejor precio,Sí
+X0000908,P0020587,C06254,2026-08-22,Antes del envío,Cambio de opinión,Sí
+X0000909,P0020611,C06266,2026-05-05,En tránsito,Encontró mejor precio,No aplica
+X0000910,P0020628,C06274,2026-09-30,En tránsito,Encontró mejor precio,No aplica
+X0000911,P0020642,C06287,2026-04-23,En tránsito,Demora en el envío,Sí
+X0000912,P0020654,C06292,2026-07-24,En tránsito,Demora en el envío,Sí
+X0000913,P0020661,C06296,2026-04-24,Antes del envío,Encontró mejor precio,No aplica
+X0000914,P0020676,C06305,2026-05-03,En tránsito,Demora en el envío,No aplica
+X0000915,P0020692,C06317,2026-04-16,En tránsito,Demora en el envío,Sí
+X0000916,P0020698,C06319,2026-05-20,Antes del envío,Cambio de opinión,Sí
+X0000917,P0020709,C06324,2026-04-25,En tránsito,Problema con el pago,Sí
+X0000918,P0020716,C06327,2026-09-13,En tránsito,Demora en el envío,Sí
+X0000919,P0020717,C06328,2026-04-23,Antes del envío,Encontró mejor precio,Sí
+X0000920,P0020727,C06333,2026-04-23,En tránsito,Demora en el envío,No aplica
+X0000921,P0020730,C06334,2026-05-04,En tránsito,Encontró mejor precio,Sí
+X0000922,P0020753,C06350,2026-06-12,En tránsito,Demora en el envío,Sí
+X0000923,P0020775,C06364,2026-05-03,En tránsito,Demora en el envío,Sí
+X0000924,P0020802,C06382,2026-04-26,En tránsito,Demora en el envío,No aplica
+X0000925,P0020817,C06390,2026-07-08,En tránsito,Encontró mejor precio,Sí
+X0000926,P0020828,C06395,2026-09-30,En tránsito,Encontró mejor precio,Sí
+X0000927,P0020834,C06405,2026-04-23,En tránsito,Demora en el envío,Sí
+X0000928,P0020836,C06405,2026-06-13,En tránsito,Cambio de opinión,No aplica
+X0000929,P0020842,C06411,2026-04-29,En tránsito,Demora en el envío,Sí
+X0000930,P0020864,C06426,2026-09-11,Antes del envío,Error en el pedido,Sí
+X0000931,P0020874,C06435,2026-07-01,Antes del envío,Encontró mejor precio,No aplica
+X0000932,P0020875,C06435,2026-07-22,En tránsito,Error en el pedido,Sí
+X0000933,P0020878,C06437,2026-07-12,En tránsito,Demora en el envío,Sí
+X0000934,P0020900,C06463,2026-07-15,En tránsito,Demora en el envío,Sí
+X0000935,P0020903,C06464,2026-09-28,En tránsito,Problema con el pago,Sí
+X0000936,P0020916,C06483,2026-06-09,En tránsito,Cambio de opinión,Sí
+X0000937,P0020937,C06495,2026-09-24,En tránsito,Demora en el envío,Sí
+X0000938,P0020965,C06519,2026-06-09,Antes del envío,Cambio de opinión,Sí
+X0000939,P0020973,C06531,2026-09-23,Antes del envío,Error en el pedido,Sí
+X0000940,P0020985,C06545,2026-05-21,En tránsito,Demora en el envío,Sí
+X0000941,P0021033,C06579,2026-05-16,En tránsito,Demora en el envío,Sí
+X0000942,P0021043,C06587,2026-07-18,Antes del envío,Cambio de opinión,No aplica
+X0000943,P0021045,C06588,2026-07-11,En tránsito,Encontró mejor precio,Sí
+X0000944,P0021053,C06592,2026-06-26,Antes del envío,Encontró mejor precio,Sí
+X0000945,P0021074,C06606,2026-05-31,En tránsito,Error en el pedido,Sí
+X0000946,P0021077,C06608,2026-06-04,En tránsito,Demora en el envío,No aplica
+X0000947,P0021082,C06610,2026-05-17,Antes del envío,Encontró mejor precio,Sí
+X0000948,P0021088,C06614,2026-05-25,En tránsito,Demora en el envío,Sí
+X0000949,P0021107,C06624,2026-05-13,En tránsito,Demora en el envío,No aplica
+X0000950,P0021166,C06661,2026-05-28,En tránsito,Demora en el envío,Sí
+X0000951,P0021181,C06671,2026-09-26,En tránsito,Demora en el envío,Sí
+X0000952,P0021196,C06680,2026-07-11,En tránsito,Encontró mejor precio,Sí
+X0000953,P0021209,C06688,2026-05-22,En tránsito,Demora en el envío,Sí
+X0000954,P0021236,C06719,2026-05-28,En tránsito,Demora en el envío,Sí
+X0000955,P0021238,C06722,2026-06-27,En tránsito,Demora en el envío,Sí
+X0000956,P0021243,C06724,2026-08-12,En tránsito,Demora en el envío,Sí
+X0000957,P0021260,C06734,2026-07-11,En tránsito,Error en el pedido,Sí
+X0000958,P0021279,C06750,2026-06-30,En tránsito,Encontró mejor precio,Sí
+X0000959,P0021306,C06775,2026-06-13,En tránsito,Encontró mejor precio,Sí
+X0000960,P0021307,C06775,2026-09-20,En tránsito,Demora en el envío,Sí
+X0000961,P0021322,C06789,2026-05-29,En tránsito,Demora en el envío,No aplica
+X0000962,P0021323,C06789,2026-06-22,En tránsito,Demora en el envío,Sí
+X0000963,P0021325,C06791,2026-06-28,Antes del envío,Problema con el pago,No aplica
+X0000964,P0021330,C06797,2026-08-13,En tránsito,Demora en el envío,Sí
+X0000965,P0021367,C06837,2026-09-23,En tránsito,Problema con el pago,Sí
+X0000966,P0021374,C06845,2026-07-24,En tránsito,Demora en el envío,Sí
+X0000967,P0021378,C06848,2026-06-13,En tránsito,Demora en el envío,Sí
+X0000968,P0021404,C06876,2026-08-20,Antes del envío,Error en el pedido,Sí
+X0000969,P0021431,C06904,2026-09-29,En tránsito,Error en el pedido,Sí
+X0000970,P0021434,C06906,2026-06-13,Antes del envío,Encontró mejor precio,Sí
+X0000971,P0021460,C06922,2026-09-30,En tránsito,Demora en el envío,No aplica
+X0000972,P0021486,C06945,2026-07-17,Antes del envío,Encontró mejor precio,Sí
+X0000973,P0021510,C06964,2026-06-26,En tránsito,Error en el pedido,Sí
+X0000974,P0021526,C06984,2026-06-13,En tránsito,Demora en el envío,Sí
+X0000975,P0021531,C06987,2026-07-18,Antes del envío,Encontró mejor precio,No aplica
+X0000976,P0021548,C07002,2026-08-08,En tránsito,Encontró mejor precio,Sí
+X0000977,P0021560,C07014,2026-07-25,Antes del envío,Encontró mejor precio,No aplica
+X0000978,P0021585,C07033,2026-08-29,En tránsito,Demora en el envío,Sí
+X0000979,P0021640,C07092,2026-06-27,Antes del envío,Cambio de opinión,No aplica
+X0000980,P0021641,C07095,2026-07-24,En tránsito,Problema con el pago,Sí
+X0000981,P0021664,C07119,2026-07-03,En tránsito,Demora en el envío,Sí
+X0000982,P0021670,C07124,2026-08-31,En tránsito,Demora en el envío,No aplica
+X0000983,P0021682,C07138,2026-08-26,En tránsito,Problema con el pago,Sí
+X0000984,P0021687,C07151,2026-07-26,En tránsito,Demora en el envío,No aplica
+X0000985,P0021698,C07166,2026-07-09,En tránsito,Demora en el envío,Sí
+X0000986,P0021702,C07172,2026-07-07,En tránsito,Demora en el envío,Sí
+X0000987,P0021779,C07274,2026-08-28,Antes del envío,Cambio de opinión,No aplica
+X0000988,P0021822,C07311,2026-07-24,En tránsito,Demora en el envío,Sí
+X0000989,P0021834,C07318,2026-07-27,En tránsito,Demora en el envío,No aplica
+X0000990,P0021836,C07319,2026-08-02,Antes del envío,Error en el pedido,Sí
+X0000991,P0021875,C07360,2026-07-25,En tránsito,Error en el pedido,No aplica
+X0000992,P0021893,C07376,2026-08-10,En tránsito,Demora en el envío,Sí
+X0000993,P0021912,C07393,2026-09-30,En tránsito,Problema con el pago,Sí
+X0000994,P0021922,C07402,2026-07-22,Antes del envío,Encontró mejor precio,Sí
+X0000995,P0021932,C07413,2026-09-30,En tránsito,Demora en el envío,Sí
+X0000996,P0021934,C07415,2026-08-28,En tránsito,Error en el pedido,Sí
+X0000997,P0021939,C07420,2026-08-27,Antes del envío,Problema con el pago,Sí
+X0000998,P0021963,C07448,2026-09-15,En tránsito,Demora en el envío,Sí
+X0000999,P0021973,C07463,2026-09-26,En tránsito,Error en el pedido,Sí
+X0001000,P0022025,C07559,2026-08-03,En tránsito,Demora en el envío,Sí
+X0001001,P0022027,C07567,2026-08-05,En tránsito,Demora en el envío,No aplica
+X0001002,P0022029,C07570,2026-09-30,En tránsito,Demora en el envío,No aplica
+X0001003,P0022033,C07579,2026-08-05,En tránsito,Error en el pedido,Sí
+X0001004,P0022045,C07599,2026-09-15,En tránsito,Demora en el envío,Sí
+X0001005,P0022048,C07602,2026-08-05,En tránsito,Demora en el envío,No aplica
+X0001006,P0022105,C07673,2026-08-28,Antes del envío,Problema con el pago,Sí
+X0001007,P0022128,C07702,2026-08-14,Antes del envío,Encontró mejor precio,Sí
+X0001008,P0022133,C07709,2026-08-25,En tránsito,Cambio de opinión,Sí
+X0001009,P0022134,C07710,2026-08-31,En tránsito,Demora en el envío,Sí
+X0001010,P0022159,C07731,2026-08-29,En tránsito,Problema con el pago,Sí
+X0001011,P0022179,C07758,2026-08-18,En tránsito,Demora en el envío,No aplica
+X0001012,P0022200,C07789,2026-09-14,Antes del envío,Cambio de opinión,Sí
+X0001013,P0022205,C07793,2026-08-28,En tránsito,Demora en el envío,Sí
+X0001014,P0022221,C07816,2026-09-06,En tránsito,Demora en el envío,Sí
+X0001015,P0022229,C07824,2026-09-27,En tránsito,Demora en el envío,Sí
+X0001016,P0022230,C07833,2026-09-25,En tránsito,Demora en el envío,Sí
+X0001017,P0022231,C07833,2026-09-07,En tránsito,Demora en el envío,Sí
+X0001018,P0022235,C07838,2026-09-06,En tránsito,Demora en el envío,Sí
+X0001019,P0022238,C07848,2026-09-17,En tránsito,Encontró mejor precio,Sí
+X0001020,P0022252,C07871,2026-09-03,En tránsito,Cambio de opinión,Sí
