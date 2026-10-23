@@ -1,0 +1,37 @@
+{
+  "generado": "2026-10-01",
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Vestido lino",
+      "precio": 159900,
+      "dimensiones": {
+        "talla": "M",
+        "color": "beige"
+      },
+      "etiquetas": [
+        "verano",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Tenis urbanos",
+      "precio": 210000,
+      "dimensiones": {
+        "talla": "40",
+        "color": "blanco"
+      },
+      "etiquetas": []
+    },
+    {
+      "id": 3,
+      "nombre": "Bolso cuero",
+      "precio": null,
+      "dimensiones": {
+        "talla": "única",
+        "color": "café"
+      }
+    }
+  ]
+}

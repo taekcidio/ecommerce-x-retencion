@@ -1,0 +1,11 @@
+factura;fecha;ciudad;cliente;monto;unidades;pagado
+F001;2026-03-01;Bogotá;Ana Ruiz;120000;2;si
+F002;2026-03-02;bogota ;Luis Pérez;85.500,50;1;no
+F003;31/02/2026;Medellín;Marta Gil;99000;3;si
+F004;2026-03-04;Medellin;  Juan Díaz;abc;1;si
+F005;;Cali;Rosa León;45000;-2;no
+F001;2026-03-05;Cali;Pedro Mora;30000;1;si
+F006;2026-03-06;Cali;=HYPERLINK("http://x.co","clic");15000;1;si
+F007;2031-01-01;Bogotá;Sara Peña;70000;1;si
+F002;2026-03-02;bogota ;Luis Pérez;85.500,50;1;no
+;2026-03-08;Pasto;Iván Ríos;52000;1;no
